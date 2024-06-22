@@ -1,0 +1,10 @@
+2024-06-22 06:23:33,937 - root - INFO - Logging configured.
+2024-06-22 06:23:33,939 - root - INFO - Environment variables loaded.
+2024-06-22 06:23:33,940 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-22 06:23:34,010 - root - INFO - Logging configured.
+2024-06-22 06:23:34,011 - root - INFO - Environment variables loaded.
+2024-06-22 06:23:34,012 - root - INFO - Unknown command. Please enter a valid command.
+2024-06-22 06:23:34,020 - root - INFO - Logging configured.
+2024-06-22 06:23:34,020 - root - INFO - Environment variables loaded.
+2024-06-22 06:23:34,021 - root - INFO - Invalid input. Please enter valid numbers.
+2024-06-22 06:23:34,021 - root - INFO - Exiting the calculator. Goodbye!
