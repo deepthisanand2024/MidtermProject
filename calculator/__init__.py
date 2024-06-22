@@ -1,10 +1,20 @@
 import os, pkgutil, importlib
 #import sys, logging, logging.config
 from calculator.operations import CommandHandler, Command
+from dotenv import load_dotenv
 
 class App:
     def __init__(self): # Constructor
-         self.command_handler = CommandHandler()
+        load_dotenv()
+        self.settings = {}  # Initialize settings as an empty dictionary
+        # Load all environment variables into settings
+        #for key, value in os.environ.items():
+        #    self.settings[key] = value
+        
+        self.settings =  self.load_environment_variables()
+        # Default to 'PRODUCTION' if 'ENVIRONMENT' not set
+        self.settings.setdefault('ENVIRONMENT', 'TESTING')    
+        self.command_handler = CommandHandler()
         
     def load_plugins(self):
         # Dynamically load all plugins in the plugins directory
@@ -49,3 +59,8 @@ class App:
                 print("Unknown command. Please enter a valid command.")
                 break
             
+    def load_environment_variables(self):
+        settings = {key: value for key, value in os.environ.items()}
+        #logging.info("Environment variables loaded.")
+        return settings
+    
