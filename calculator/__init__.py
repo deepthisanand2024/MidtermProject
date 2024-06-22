@@ -12,9 +12,14 @@ class App:
         os.makedirs('logs', exist_ok=True)
         self.configure_logging()
         load_dotenv()
-        self.settings = self.load_environment_variables()
-        self.settings.setdefault('ENVIRONMENT', 'TESTING')
-        self.command_handler = CommandHandler()
+        self.settings = {}  # Initialize settings as an empty dictionary
+        # Load all environment variables into settings
+        #for key, value in os.environ.items():
+        #    self.settings[key] = value
+        
+        self.settings =  self.load_environment_variables()
+        # Default to 'PRODUCTION' if 'ENVIRONMENT' not set
+        self.settings.setdefault('ENVIRONMENT', 'DEV')    
         self.command_handler = CommandHandler()
 
     def configure_logging(self):
