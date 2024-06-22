@@ -1,7 +1,8 @@
-import os, sys, pkgutil
+import os
+import pkgutil
 import importlib
-from calculator.operations import CommandHandler
-from calculator.operations import Command
+import sys
+from calculator.operations import CommandHandler, Command
 from dotenv import load_dotenv
 import logging
 import logging.config
@@ -12,7 +13,8 @@ class App:
         self.configure_logging()
         load_dotenv()
         self.settings = self.load_environment_variables()
-        self.settings.setdefault('ENVIRONMENT', 'PRODUCTION')
+        self.settings.setdefault('ENVIRONMENT', 'TESTING')
+        self.command_handler = CommandHandler()
         self.command_handler = CommandHandler()
 
     def configure_logging(self):
@@ -47,12 +49,14 @@ class App:
     def start(self):
         # Register commands here
         self.load_plugins()
+
         while True:
             # Input command from the user
             command = input("Enter command (add/subtract/multiply/divide, 'exit' to quit): ").strip().lower()
             if command == 'exit':
                 logging.info("Exiting the calculator. Goodbye!")
-                sys.exit(0)
+                print("Exiting the calculator. Goodbye!")
+                break
             
             elif command in ['add', 'subtract', 'multiply', 'divide']:
                 # Input numbers from the user
@@ -60,7 +64,8 @@ class App:
                     num1 = float(input("Enter first number: "))
                     num2 = float(input("Enter second number: "))
                 except ValueError:
-                    logging.info("Invalid input. Please enter valid numbers.")
+                    logging.error("Invalid input. Please enter valid numbers.")
+                    print("Invalid input. Please enter valid numbers.")
                     continue
 
                 # Handle the command and get the result
@@ -69,8 +74,10 @@ class App:
                 # Display the result
                 if result is not None:
                     logging.info(f"Result of {command} {num1} and {num2} is: {result}")
+                    print(f"Result of {command} {num1} and {num2} is: {result}")
             else:
                 # Handle unknown commands
-                logging.info("Unknown command. Please enter a valid command.")
-                sys.exit(0)
+                logging.error("Unknown command. Please enter a valid command.")
+                print("Unknown command. Please enter a valid command.")
+                break
             
