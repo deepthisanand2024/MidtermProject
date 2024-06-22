@@ -13,7 +13,7 @@ class App:
         
         self.settings =  self.load_environment_variables()
         # Default to 'PRODUCTION' if 'ENVIRONMENT' not set
-        self.settings.setdefault('ENVIRONMENT', 'TESTING')    
+        self.settings.setdefault('ENVIRONMENT', 'DEV')    
         self.command_handler = CommandHandler()
         
     def load_plugins(self):
