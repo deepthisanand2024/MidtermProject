@@ -1,5 +1,6 @@
-## 
-Implementation of command pattern and REPL
-Interactive calculator commands (add, subtract, multiply, divide)
-Implemented plugins
+## Updates
+1. Added Github Actions 
+2. Added feature for loading environment variables
+3. Added logging 
+
 
