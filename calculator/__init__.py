@@ -1,12 +1,11 @@
-import pkgutil
-import importlib
-from calculator.operations import CommandHandler
-from calculator.operations import Command
+import os, pkgutil, importlib
+#import sys, logging, logging.config
+from calculator.operations import CommandHandler, Command
 
 class App:
     def __init__(self): # Constructor
-        self.command_handler = CommandHandler()
-
+         self.command_handler = CommandHandler()
+        
     def load_plugins(self):
         # Dynamically load all plugins in the plugins directory
         plugins_package = 'calculator.plugins'
