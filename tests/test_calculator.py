@@ -3,8 +3,29 @@
 from io import StringIO
 from contextlib import redirect_stdout
 
+import pytest
+
 #import pytest
 from calculator import App
+
+@pytest.fixture
+def app_instance():
+    # Set up the App instance with mock environment variables
+    return App()
+
+def test_app_get_environment_variable(app_instance):
+   # Test case 1: Check default environment setting
+    assert app_instance.settings['ENVIRONMENT'] == 'DEV'
+
+    # Test case 2: Mock setting 'ENVIRONMENT' to 'DEVELOPMENT'
+    # Simulate loading environment variables
+    app_instance.settings['ENVIRONMENT'] = 'TESTING'
+    assert app_instance.settings['ENVIRONMENT'] == 'TESTING'
+
+    # Test case 3: Mock setting 'ENVIRONMENT' to 'PRODUCTION'
+    app_instance.settings['ENVIRONMENT'] = 'PRODUCTION'
+    assert app_instance.settings['ENVIRONMENT'] == 'PRODUCTION'
+
 
 def test_app_start_exit_command(capfd, monkeypatch):
     """Test that the REPL exits correctly on 'exit' command."""
