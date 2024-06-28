@@ -8,3 +8,851 @@
 2024-06-22 06:23:34,020 - root - INFO - Environment variables loaded.
 2024-06-22 06:23:34,021 - root - INFO - Invalid input. Please enter valid numbers.
 2024-06-22 06:23:34,021 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-27 06:40:13,414 - root - INFO - Logging configured.
+2024-06-27 06:40:13,414 - root - INFO - Environment variables loaded.
+2024-06-27 06:40:53,600 - root - ERROR - Invalid input. Please enter valid numbers.
+2024-06-27 06:42:43,610 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-27 06:42:47,920 - root - INFO - Logging configured.
+2024-06-27 06:42:47,921 - root - INFO - Environment variables loaded.
+2024-06-27 06:42:55,866 - root - ERROR - Error: Division by zero
+2024-06-27 06:42:55,866 - root - INFO - Result of division: Error: Division by zero
+2024-06-27 06:45:21,047 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-27 06:45:22,156 - root - INFO - Logging configured.
+2024-06-27 06:45:22,157 - root - INFO - Environment variables loaded.
+2024-06-27 06:45:28,439 - root - ERROR - Error: Division by zero
+2024-06-27 06:45:59,265 - root - INFO - Logging configured.
+2024-06-27 06:45:59,266 - root - INFO - Environment variables loaded.
+2024-06-27 06:46:03,948 - root - ERROR - Error: Division by zero
+2024-06-27 06:47:54,942 - root - INFO - Logging configured.
+2024-06-27 06:47:54,942 - root - INFO - Environment variables loaded.
+2024-06-27 06:48:01,188 - root - ERROR - Error: Division by zero
+2024-06-27 06:48:01,189 - root - INFO - Result of division: Error: Division by zero
+2024-06-27 06:49:04,501 - root - ERROR - Unknown command. Please enter a valid command.
+2024-06-27 06:49:16,978 - root - INFO - Logging configured.
+2024-06-27 06:49:16,978 - root - INFO - Environment variables loaded.
+2024-06-27 06:49:21,654 - root - ERROR - Invalid input. Please enter valid numbers.
+2024-06-27 06:49:28,313 - root - ERROR - Error: Division by zero
+2024-06-27 06:52:13,231 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-27 06:52:15,342 - root - INFO - Logging configured.
+2024-06-27 06:52:15,342 - root - INFO - Environment variables loaded.
+2024-06-27 06:52:19,744 - root - ERROR - Error: Division by zero
+2024-06-27 06:52:52,939 - root - INFO - Logging configured.
+2024-06-27 06:52:52,940 - root - INFO - Environment variables loaded.
+2024-06-27 06:52:57,040 - root - ERROR - Error: Division by zero
+2024-06-27 06:53:10,360 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-27 15:20:41,138 - root - INFO - Logging configured.
+2024-06-27 15:20:41,138 - root - INFO - Environment variables loaded.
+2024-06-27 15:20:45,916 - root - ERROR - Error: Division by zero
+2024-06-27 15:21:46,770 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-27 16:29:13,642 - root - INFO - Logging configured.
+2024-06-27 16:29:13,643 - root - INFO - Environment variables loaded.
+2024-06-27 16:29:44,057 - root - INFO - Logging configured.
+2024-06-27 16:29:44,057 - root - INFO - Environment variables loaded.
+2024-06-27 16:29:51,035 - root - ERROR - Error: Division by zero
+2024-06-27 16:42:23,543 - root - INFO - Logging configured.
+2024-06-27 16:42:23,545 - root - INFO - Environment variables loaded.
+2024-06-27 16:43:27,849 - root - INFO - Logging configured.
+2024-06-27 16:43:27,850 - root - INFO - Environment variables loaded.
+2024-06-27 16:43:33,309 - root - INFO - Result of division: 2.0
+2024-06-27 16:43:43,261 - root - ERROR - Error: Division by zero
+2024-06-27 16:44:13,521 - root - INFO - Result of division: 0.5
+2024-06-28 04:27:23,085 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 04:33:33,366 - root - INFO - Logging configured.
+2024-06-28 04:33:33,370 - root - INFO - Environment variables loaded.
+2024-06-28 04:33:39,818 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 04:43:44,546 - root - INFO - Logging configured.
+2024-06-28 04:43:44,546 - root - INFO - Environment variables loaded.
+2024-06-28 04:44:54,338 - root - INFO - Result of division: 0.5
+2024-06-28 05:46:01,392 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 05:46:03,023 - root - INFO - Logging configured.
+2024-06-28 05:46:03,024 - root - INFO - Environment variables loaded.
+2024-06-28 05:46:03,038 - root - ERROR - Error loading plugin cos
+2024-06-28 05:46:03,038 - root - INFO - Plugin cos registered successfully.
+2024-06-28 05:46:03,039 - root - ERROR - Error loading plugin cos
+2024-06-28 05:46:03,039 - root - ERROR - Error loading plugin cos
+2024-06-28 05:46:03,039 - root - ERROR - Error loading plugin cos
+2024-06-28 05:46:03,039 - root - ERROR - Error loading plugin cos
+2024-06-28 05:46:03,039 - root - ERROR - Error loading plugin cos
+2024-06-28 05:46:03,039 - root - ERROR - Error loading plugin cos
+2024-06-28 05:46:03,039 - root - ERROR - Error loading plugin cos
+2024-06-28 05:46:03,039 - root - ERROR - Error loading plugin cos
+2024-06-28 05:46:03,040 - root - ERROR - Error loading plugin cos
+2024-06-28 05:46:03,040 - root - ERROR - Error loading plugin cos
+2024-06-28 05:46:03,040 - root - ERROR - Error loading plugin cos
+2024-06-28 05:46:03,041 - root - ERROR - Error loading plugin sin
+2024-06-28 05:46:03,041 - root - INFO - Plugin sin registered successfully.
+2024-06-28 05:46:03,041 - root - ERROR - Error loading plugin sin
+2024-06-28 05:46:03,041 - root - ERROR - Error loading plugin sin
+2024-06-28 05:46:03,042 - root - ERROR - Error loading plugin sin
+2024-06-28 05:46:03,042 - root - ERROR - Error loading plugin sin
+2024-06-28 05:46:03,042 - root - ERROR - Error loading plugin sin
+2024-06-28 05:46:03,042 - root - ERROR - Error loading plugin sin
+2024-06-28 05:46:03,042 - root - ERROR - Error loading plugin sin
+2024-06-28 05:46:03,042 - root - ERROR - Error loading plugin sin
+2024-06-28 05:46:03,042 - root - ERROR - Error loading plugin sin
+2024-06-28 05:46:03,042 - root - ERROR - Error loading plugin sin
+2024-06-28 05:46:03,043 - root - ERROR - Error loading plugin sin
+2024-06-28 05:46:03,045 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:46:03,045 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 05:46:03,046 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:46:03,046 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:46:03,046 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:46:03,047 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:46:03,047 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:46:03,047 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:46:03,047 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:46:03,047 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:46:03,047 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:46:03,048 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:46:03,048 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:46:03,050 - root - ERROR - Error loading plugin square
+2024-06-28 05:46:03,050 - root - INFO - Plugin square registered successfully.
+2024-06-28 05:46:03,050 - root - ERROR - Error loading plugin square
+2024-06-28 05:46:03,050 - root - ERROR - Error loading plugin square
+2024-06-28 05:46:03,050 - root - ERROR - Error loading plugin square
+2024-06-28 05:46:03,050 - root - ERROR - Error loading plugin square
+2024-06-28 05:46:03,050 - root - ERROR - Error loading plugin square
+2024-06-28 05:46:03,051 - root - ERROR - Error loading plugin square
+2024-06-28 05:46:03,051 - root - ERROR - Error loading plugin square
+2024-06-28 05:46:03,051 - root - ERROR - Error loading plugin square
+2024-06-28 05:46:03,051 - root - ERROR - Error loading plugin square
+2024-06-28 05:46:03,051 - root - ERROR - Error loading plugin square
+2024-06-28 05:46:03,053 - root - ERROR - Error loading plugin tan
+2024-06-28 05:46:03,054 - root - INFO - Plugin tan registered successfully.
+2024-06-28 05:46:03,054 - root - ERROR - Error loading plugin tan
+2024-06-28 05:46:03,054 - root - ERROR - Error loading plugin tan
+2024-06-28 05:46:03,054 - root - ERROR - Error loading plugin tan
+2024-06-28 05:46:03,054 - root - ERROR - Error loading plugin tan
+2024-06-28 05:46:03,054 - root - ERROR - Error loading plugin tan
+2024-06-28 05:46:03,055 - root - ERROR - Error loading plugin tan
+2024-06-28 05:46:03,055 - root - ERROR - Error loading plugin tan
+2024-06-28 05:46:03,055 - root - ERROR - Error loading plugin tan
+2024-06-28 05:46:03,055 - root - ERROR - Error loading plugin tan
+2024-06-28 05:46:03,055 - root - ERROR - Error loading plugin tan
+2024-06-28 05:46:03,055 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:12,414 - root - INFO - Logging configured.
+2024-06-28 05:48:12,415 - root - INFO - Environment variables loaded.
+2024-06-28 05:48:12,419 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:12,419 - root - INFO - Plugin cos registered successfully.
+2024-06-28 05:48:12,419 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:12,419 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:12,420 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:12,420 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:12,420 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:12,420 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:12,420 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:12,420 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:12,420 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:12,421 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:12,421 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:12,421 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:12,421 - root - INFO - Plugin sin registered successfully.
+2024-06-28 05:48:12,421 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:12,421 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:12,422 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:12,422 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:12,422 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:12,422 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:12,422 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:12,422 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:12,422 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:12,422 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:12,422 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:12,423 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:12,423 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 05:48:12,423 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:12,423 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:12,423 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:12,423 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:12,424 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:12,424 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:12,424 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:12,424 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:12,424 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:12,424 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:12,424 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:12,425 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:12,425 - root - INFO - Plugin square registered successfully.
+2024-06-28 05:48:12,425 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:12,425 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:12,425 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:12,425 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:12,425 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:12,426 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:12,426 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:12,426 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:12,426 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:12,426 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:12,426 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:12,427 - root - INFO - Plugin tan registered successfully.
+2024-06-28 05:48:12,427 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:12,427 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:12,427 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:12,427 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:12,427 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:12,427 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:12,427 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:12,428 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:12,428 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:12,428 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:12,428 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:50,056 - root - INFO - Logging configured.
+2024-06-28 05:48:50,057 - root - INFO - Environment variables loaded.
+2024-06-28 05:48:50,061 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:50,061 - root - INFO - Plugin cos registered successfully.
+2024-06-28 05:48:50,061 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:50,061 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:50,062 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:50,062 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:50,062 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:50,062 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:50,062 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:50,062 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:50,062 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:50,062 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:50,063 - root - ERROR - Error loading plugin cos
+2024-06-28 05:48:50,063 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:50,063 - root - INFO - Plugin sin registered successfully.
+2024-06-28 05:48:50,063 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:50,063 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:50,063 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:50,064 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:50,064 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:50,064 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:50,064 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:50,064 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:50,064 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:50,064 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:50,064 - root - ERROR - Error loading plugin sin
+2024-06-28 05:48:50,065 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:50,065 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 05:48:50,065 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:50,065 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:50,065 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:50,065 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:50,065 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:50,066 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:50,066 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:50,066 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:50,066 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:50,066 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:50,066 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:48:50,066 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:50,067 - root - INFO - Plugin square registered successfully.
+2024-06-28 05:48:50,067 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:50,067 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:50,067 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:50,067 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:50,067 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:50,067 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:50,067 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:50,067 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:50,068 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:50,068 - root - ERROR - Error loading plugin square
+2024-06-28 05:48:50,068 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:50,068 - root - INFO - Plugin tan registered successfully.
+2024-06-28 05:48:50,068 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:50,068 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:50,069 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:50,069 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:50,069 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:50,069 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:50,069 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:50,070 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:50,071 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:50,071 - root - ERROR - Error loading plugin tan
+2024-06-28 05:48:50,072 - root - ERROR - Error loading plugin tan
+2024-06-28 05:50:37,726 - root - INFO - Logging configured.
+2024-06-28 05:50:37,727 - root - INFO - Environment variables loaded.
+2024-06-28 05:50:37,732 - root - ERROR - Error loading plugin cos
+2024-06-28 05:50:37,732 - root - INFO - Plugin cos registered successfully.
+2024-06-28 05:50:37,732 - root - ERROR - Error loading plugin cos
+2024-06-28 05:50:37,732 - root - ERROR - Error loading plugin cos
+2024-06-28 05:50:37,732 - root - ERROR - Error loading plugin cos
+2024-06-28 05:50:37,733 - root - ERROR - Error loading plugin cos
+2024-06-28 05:50:37,733 - root - ERROR - Error loading plugin cos
+2024-06-28 05:50:37,733 - root - ERROR - Error loading plugin cos
+2024-06-28 05:50:37,733 - root - ERROR - Error loading plugin cos
+2024-06-28 05:50:37,733 - root - ERROR - Error loading plugin cos
+2024-06-28 05:50:37,733 - root - ERROR - Error loading plugin cos
+2024-06-28 05:50:37,733 - root - ERROR - Error loading plugin cos
+2024-06-28 05:50:37,733 - root - ERROR - Error loading plugin cos
+2024-06-28 05:50:37,734 - root - ERROR - Error loading plugin sin
+2024-06-28 05:50:37,734 - root - INFO - Plugin sin registered successfully.
+2024-06-28 05:50:37,734 - root - ERROR - Error loading plugin sin
+2024-06-28 05:50:37,734 - root - ERROR - Error loading plugin sin
+2024-06-28 05:50:37,734 - root - ERROR - Error loading plugin sin
+2024-06-28 05:50:37,735 - root - ERROR - Error loading plugin sin
+2024-06-28 05:50:37,735 - root - ERROR - Error loading plugin sin
+2024-06-28 05:50:37,735 - root - ERROR - Error loading plugin sin
+2024-06-28 05:50:37,735 - root - ERROR - Error loading plugin sin
+2024-06-28 05:50:37,735 - root - ERROR - Error loading plugin sin
+2024-06-28 05:50:37,735 - root - ERROR - Error loading plugin sin
+2024-06-28 05:50:37,736 - root - ERROR - Error loading plugin sin
+2024-06-28 05:50:37,736 - root - ERROR - Error loading plugin sin
+2024-06-28 05:50:37,736 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:50:37,736 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 05:50:37,736 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:50:37,737 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:50:37,737 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:50:37,737 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:50:37,737 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:50:37,737 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:50:37,737 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:50:37,737 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:50:37,737 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:50:37,738 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:50:37,738 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:50:37,738 - root - ERROR - Error loading plugin square
+2024-06-28 05:50:37,738 - root - INFO - Plugin square registered successfully.
+2024-06-28 05:50:37,739 - root - ERROR - Error loading plugin square
+2024-06-28 05:50:37,739 - root - ERROR - Error loading plugin square
+2024-06-28 05:50:37,739 - root - ERROR - Error loading plugin square
+2024-06-28 05:50:37,739 - root - ERROR - Error loading plugin square
+2024-06-28 05:50:37,740 - root - ERROR - Error loading plugin square
+2024-06-28 05:50:37,740 - root - ERROR - Error loading plugin square
+2024-06-28 05:50:37,740 - root - ERROR - Error loading plugin square
+2024-06-28 05:50:37,740 - root - ERROR - Error loading plugin square
+2024-06-28 05:50:37,740 - root - ERROR - Error loading plugin square
+2024-06-28 05:50:37,741 - root - ERROR - Error loading plugin square
+2024-06-28 05:50:37,741 - root - ERROR - Error loading plugin tan
+2024-06-28 05:50:37,741 - root - INFO - Plugin tan registered successfully.
+2024-06-28 05:50:37,742 - root - ERROR - Error loading plugin tan
+2024-06-28 05:50:37,742 - root - ERROR - Error loading plugin tan
+2024-06-28 05:50:37,742 - root - ERROR - Error loading plugin tan
+2024-06-28 05:50:37,742 - root - ERROR - Error loading plugin tan
+2024-06-28 05:50:37,742 - root - ERROR - Error loading plugin tan
+2024-06-28 05:50:37,742 - root - ERROR - Error loading plugin tan
+2024-06-28 05:50:37,743 - root - ERROR - Error loading plugin tan
+2024-06-28 05:50:37,743 - root - ERROR - Error loading plugin tan
+2024-06-28 05:50:37,744 - root - ERROR - Error loading plugin tan
+2024-06-28 05:50:37,744 - root - ERROR - Error loading plugin tan
+2024-06-28 05:50:37,744 - root - ERROR - Error loading plugin tan
+2024-06-28 05:56:56,108 - root - INFO - Logging configured.
+2024-06-28 05:56:56,109 - root - INFO - Environment variables loaded.
+2024-06-28 05:57:00,057 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:00,057 - root - INFO - Plugin cos registered successfully.
+2024-06-28 05:57:00,057 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:00,057 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:00,057 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:00,057 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:00,058 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:00,058 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:00,058 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:00,058 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:00,058 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:00,058 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:00,058 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:00,059 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:00,059 - root - INFO - Plugin sin registered successfully.
+2024-06-28 05:57:00,059 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:00,059 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:00,059 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:00,059 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:00,060 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:00,060 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:00,060 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:00,060 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:00,060 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:00,060 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:00,060 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:00,061 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:00,061 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 05:57:00,061 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:00,061 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:00,061 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:00,061 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:00,061 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:00,062 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:00,062 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:00,062 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:00,062 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:00,062 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:00,062 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:00,063 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:00,063 - root - INFO - Plugin square registered successfully.
+2024-06-28 05:57:00,063 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:00,063 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:00,063 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:00,063 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:00,063 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:00,063 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:00,064 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:00,064 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:00,064 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:00,064 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:00,064 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:00,064 - root - INFO - Plugin tan registered successfully.
+2024-06-28 05:57:00,065 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:00,065 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:00,065 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:00,065 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:00,065 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:00,065 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:00,065 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:00,065 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:00,066 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:00,066 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:00,066 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:31,616 - root - INFO - Logging configured.
+2024-06-28 05:57:31,617 - root - INFO - Environment variables loaded.
+2024-06-28 05:57:34,316 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:34,317 - root - INFO - Plugin cos registered successfully.
+2024-06-28 05:57:34,317 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:34,317 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:34,317 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:34,317 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:34,317 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:34,317 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:34,318 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:34,318 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:34,318 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:34,318 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:34,318 - root - ERROR - Error loading plugin cos
+2024-06-28 05:57:34,318 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:34,319 - root - INFO - Plugin sin registered successfully.
+2024-06-28 05:57:34,319 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:34,319 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:34,319 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:34,319 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:34,319 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:34,319 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:34,319 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:34,320 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:34,320 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:34,320 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:34,320 - root - ERROR - Error loading plugin sin
+2024-06-28 05:57:34,320 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:34,321 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 05:57:34,321 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:34,321 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:34,321 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:34,321 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:34,321 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:34,321 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:34,321 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:34,321 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:34,322 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:34,322 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:34,322 - root - ERROR - Error loading plugin sqrt
+2024-06-28 05:57:34,322 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:34,322 - root - INFO - Plugin square registered successfully.
+2024-06-28 05:57:34,322 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:34,323 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:34,323 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:34,323 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:34,323 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:34,323 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:34,323 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:34,323 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:34,323 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:34,324 - root - ERROR - Error loading plugin square
+2024-06-28 05:57:34,324 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:34,324 - root - INFO - Plugin tan registered successfully.
+2024-06-28 05:57:34,324 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:34,324 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:34,325 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:34,325 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:34,325 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:34,325 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:34,325 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:34,325 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:34,325 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:34,325 - root - ERROR - Error loading plugin tan
+2024-06-28 05:57:34,326 - root - ERROR - Error loading plugin tan
+2024-06-28 06:14:21,436 - root - INFO - Logging configured.
+2024-06-28 06:14:21,437 - root - INFO - Environment variables loaded.
+2024-06-28 06:14:24,076 - root - ERROR - Error loading plugin cos
+2024-06-28 06:14:24,076 - root - INFO - Plugin cos registered successfully.
+2024-06-28 06:14:24,076 - root - ERROR - Error loading plugin cos
+2024-06-28 06:14:24,076 - root - ERROR - Error loading plugin cos
+2024-06-28 06:14:24,076 - root - ERROR - Error loading plugin cos
+2024-06-28 06:14:24,076 - root - ERROR - Error loading plugin cos
+2024-06-28 06:14:24,076 - root - ERROR - Error loading plugin cos
+2024-06-28 06:14:24,077 - root - ERROR - Error loading plugin cos
+2024-06-28 06:14:24,077 - root - ERROR - Error loading plugin cos
+2024-06-28 06:14:24,077 - root - ERROR - Error loading plugin cos
+2024-06-28 06:14:24,077 - root - ERROR - Error loading plugin cos
+2024-06-28 06:14:24,077 - root - ERROR - Error loading plugin cos
+2024-06-28 06:14:24,077 - root - ERROR - Error loading plugin cos
+2024-06-28 06:14:24,078 - root - ERROR - Error loading plugin sin
+2024-06-28 06:14:24,078 - root - INFO - Plugin sin registered successfully.
+2024-06-28 06:14:24,078 - root - ERROR - Error loading plugin sin
+2024-06-28 06:14:24,078 - root - ERROR - Error loading plugin sin
+2024-06-28 06:14:24,078 - root - ERROR - Error loading plugin sin
+2024-06-28 06:14:24,078 - root - ERROR - Error loading plugin sin
+2024-06-28 06:14:24,078 - root - ERROR - Error loading plugin sin
+2024-06-28 06:14:24,079 - root - ERROR - Error loading plugin sin
+2024-06-28 06:14:24,079 - root - ERROR - Error loading plugin sin
+2024-06-28 06:14:24,079 - root - ERROR - Error loading plugin sin
+2024-06-28 06:14:24,079 - root - ERROR - Error loading plugin sin
+2024-06-28 06:14:24,079 - root - ERROR - Error loading plugin sin
+2024-06-28 06:14:24,079 - root - ERROR - Error loading plugin sin
+2024-06-28 06:14:24,080 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:14:24,080 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 06:14:24,080 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:14:24,080 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:14:24,080 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:14:24,080 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:14:24,080 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:14:24,080 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:14:24,081 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:14:24,081 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:14:24,081 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:14:24,081 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:14:24,081 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:14:24,082 - root - ERROR - Error loading plugin square
+2024-06-28 06:14:24,082 - root - INFO - Plugin square registered successfully.
+2024-06-28 06:14:24,082 - root - ERROR - Error loading plugin square
+2024-06-28 06:14:24,083 - root - ERROR - Error loading plugin square
+2024-06-28 06:14:24,084 - root - ERROR - Error loading plugin square
+2024-06-28 06:14:24,084 - root - ERROR - Error loading plugin square
+2024-06-28 06:14:24,085 - root - ERROR - Error loading plugin square
+2024-06-28 06:14:24,085 - root - ERROR - Error loading plugin square
+2024-06-28 06:14:24,085 - root - ERROR - Error loading plugin square
+2024-06-28 06:14:24,085 - root - ERROR - Error loading plugin square
+2024-06-28 06:14:24,085 - root - ERROR - Error loading plugin square
+2024-06-28 06:14:24,086 - root - ERROR - Error loading plugin square
+2024-06-28 06:14:24,087 - root - ERROR - Error loading plugin tan
+2024-06-28 06:14:24,087 - root - INFO - Plugin tan registered successfully.
+2024-06-28 06:14:24,089 - root - ERROR - Error loading plugin tan
+2024-06-28 06:14:24,090 - root - ERROR - Error loading plugin tan
+2024-06-28 06:14:24,090 - root - ERROR - Error loading plugin tan
+2024-06-28 06:14:24,090 - root - ERROR - Error loading plugin tan
+2024-06-28 06:14:24,090 - root - ERROR - Error loading plugin tan
+2024-06-28 06:14:24,090 - root - ERROR - Error loading plugin tan
+2024-06-28 06:14:24,090 - root - ERROR - Error loading plugin tan
+2024-06-28 06:14:24,091 - root - ERROR - Error loading plugin tan
+2024-06-28 06:14:24,091 - root - ERROR - Error loading plugin tan
+2024-06-28 06:14:24,091 - root - ERROR - Error loading plugin tan
+2024-06-28 06:14:24,091 - root - ERROR - Error loading plugin tan
+2024-06-28 06:22:41,372 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 06:22:44,312 - root - INFO - Logging configured.
+2024-06-28 06:22:44,312 - root - INFO - Environment variables loaded.
+2024-06-28 06:22:47,465 - root - ERROR - Error loading plugin cos
+2024-06-28 06:22:47,465 - root - INFO - Plugin cos registered successfully.
+2024-06-28 06:22:47,467 - root - ERROR - Error loading plugin cos
+2024-06-28 06:22:47,467 - root - ERROR - Error loading plugin cos
+2024-06-28 06:22:47,467 - root - ERROR - Error loading plugin cos
+2024-06-28 06:22:47,467 - root - ERROR - Error loading plugin cos
+2024-06-28 06:22:47,467 - root - ERROR - Error loading plugin cos
+2024-06-28 06:22:47,467 - root - ERROR - Error loading plugin cos
+2024-06-28 06:22:47,468 - root - ERROR - Error loading plugin cos
+2024-06-28 06:22:47,468 - root - ERROR - Error loading plugin cos
+2024-06-28 06:22:47,468 - root - ERROR - Error loading plugin cos
+2024-06-28 06:22:47,468 - root - ERROR - Error loading plugin cos
+2024-06-28 06:22:47,468 - root - ERROR - Error loading plugin cos
+2024-06-28 06:22:47,469 - root - ERROR - Error loading plugin sin
+2024-06-28 06:22:47,469 - root - INFO - Plugin sin registered successfully.
+2024-06-28 06:22:47,469 - root - ERROR - Error loading plugin sin
+2024-06-28 06:22:47,469 - root - ERROR - Error loading plugin sin
+2024-06-28 06:22:47,469 - root - ERROR - Error loading plugin sin
+2024-06-28 06:22:47,469 - root - ERROR - Error loading plugin sin
+2024-06-28 06:22:47,470 - root - ERROR - Error loading plugin sin
+2024-06-28 06:22:47,470 - root - ERROR - Error loading plugin sin
+2024-06-28 06:22:47,470 - root - ERROR - Error loading plugin sin
+2024-06-28 06:22:47,470 - root - ERROR - Error loading plugin sin
+2024-06-28 06:22:47,470 - root - ERROR - Error loading plugin sin
+2024-06-28 06:22:47,470 - root - ERROR - Error loading plugin sin
+2024-06-28 06:22:47,470 - root - ERROR - Error loading plugin sin
+2024-06-28 06:22:47,471 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:22:47,471 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 06:22:47,471 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:22:47,471 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:22:47,472 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:22:47,472 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:22:47,472 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:22:47,472 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:22:47,472 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:22:47,472 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:22:47,472 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:22:47,472 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:22:47,473 - root - ERROR - Error loading plugin sqrt
+2024-06-28 06:22:47,473 - root - ERROR - Error loading plugin square
+2024-06-28 06:22:47,473 - root - INFO - Plugin square registered successfully.
+2024-06-28 06:22:47,473 - root - ERROR - Error loading plugin square
+2024-06-28 06:22:47,473 - root - ERROR - Error loading plugin square
+2024-06-28 06:22:47,474 - root - ERROR - Error loading plugin square
+2024-06-28 06:22:47,474 - root - ERROR - Error loading plugin square
+2024-06-28 06:22:47,474 - root - ERROR - Error loading plugin square
+2024-06-28 06:22:47,474 - root - ERROR - Error loading plugin square
+2024-06-28 06:22:47,474 - root - ERROR - Error loading plugin square
+2024-06-28 06:22:47,474 - root - ERROR - Error loading plugin square
+2024-06-28 06:22:47,474 - root - ERROR - Error loading plugin square
+2024-06-28 06:22:47,474 - root - ERROR - Error loading plugin square
+2024-06-28 06:22:47,474 - root - ERROR - Error loading plugin tan
+2024-06-28 06:22:47,475 - root - INFO - Plugin tan registered successfully.
+2024-06-28 06:22:47,483 - root - ERROR - Error loading plugin tan
+2024-06-28 06:22:47,483 - root - ERROR - Error loading plugin tan
+2024-06-28 06:22:47,484 - root - ERROR - Error loading plugin tan
+2024-06-28 06:22:47,484 - root - ERROR - Error loading plugin tan
+2024-06-28 06:22:47,484 - root - ERROR - Error loading plugin tan
+2024-06-28 06:22:47,484 - root - ERROR - Error loading plugin tan
+2024-06-28 06:22:47,484 - root - ERROR - Error loading plugin tan
+2024-06-28 06:22:47,484 - root - ERROR - Error loading plugin tan
+2024-06-28 06:22:47,484 - root - ERROR - Error loading plugin tan
+2024-06-28 06:22:47,484 - root - ERROR - Error loading plugin tan
+2024-06-28 06:22:47,484 - root - ERROR - Error loading plugin tan
+2024-06-28 06:23:31,121 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 06:23:32,282 - root - INFO - Logging configured.
+2024-06-28 06:23:32,283 - root - INFO - Environment variables loaded.
+2024-06-28 06:23:34,974 - root - INFO - Plugin cos registered successfully.
+2024-06-28 06:23:34,975 - root - INFO - Plugin sin registered successfully.
+2024-06-28 06:23:34,976 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 06:23:34,977 - root - INFO - Plugin square registered successfully.
+2024-06-28 06:23:34,978 - root - INFO - Plugin tan registered successfully.
+2024-06-28 06:23:47,694 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 06:23:48,728 - root - INFO - Logging configured.
+2024-06-28 06:23:48,729 - root - INFO - Environment variables loaded.
+2024-06-28 06:23:50,915 - root - INFO - Plugin cos registered successfully.
+2024-06-28 06:23:50,915 - root - INFO - Plugin sin registered successfully.
+2024-06-28 06:23:50,915 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 06:23:50,916 - root - INFO - Plugin square registered successfully.
+2024-06-28 06:23:50,916 - root - INFO - Plugin tan registered successfully.
+2024-06-28 06:26:42,730 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 06:26:43,747 - root - INFO - Logging configured.
+2024-06-28 06:26:43,748 - root - INFO - Environment variables loaded.
+2024-06-28 06:26:46,295 - root - INFO - Plugin cos registered successfully.
+2024-06-28 06:26:46,295 - root - INFO - Plugin sin registered successfully.
+2024-06-28 06:26:46,296 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 06:26:46,296 - root - INFO - Plugin square registered successfully.
+2024-06-28 06:26:46,296 - root - INFO - Plugin tan registered successfully.
+2024-06-28 11:03:09,744 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 11:03:11,880 - root - INFO - Logging configured.
+2024-06-28 11:03:11,891 - root - INFO - Environment variables loaded.
+2024-06-28 11:03:14,586 - root - INFO - Plugin cos registered successfully.
+2024-06-28 11:03:14,587 - root - INFO - Plugin sin registered successfully.
+2024-06-28 11:03:14,588 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 11:03:14,588 - root - INFO - Plugin square registered successfully.
+2024-06-28 11:03:14,589 - root - INFO - Plugin tan registered successfully.
+2024-06-28 11:21:40,862 - root - INFO - Logging configured.
+2024-06-28 11:21:40,865 - root - INFO - Environment variables loaded.
+2024-06-28 11:21:52,772 - root - ERROR - Error: Division by zero
+2024-06-28 11:21:58,320 - root - INFO - Plugin cos registered successfully.
+2024-06-28 11:21:58,320 - root - INFO - Plugin sin registered successfully.
+2024-06-28 11:21:58,324 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 11:21:58,328 - root - INFO - Plugin square registered successfully.
+2024-06-28 11:21:58,329 - root - INFO - Plugin tan registered successfully.
+2024-06-28 11:22:54,137 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 11:22:55,386 - root - INFO - Logging configured.
+2024-06-28 11:22:55,387 - root - INFO - Environment variables loaded.
+2024-06-28 11:22:58,501 - root - INFO - Plugin cos registered successfully.
+2024-06-28 11:22:58,502 - root - INFO - Plugin sin registered successfully.
+2024-06-28 11:22:58,502 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 11:22:58,502 - root - INFO - Plugin square registered successfully.
+2024-06-28 11:22:58,503 - root - INFO - Plugin tan registered successfully.
+2024-06-28 11:23:09,301 - root - INFO - Plugin cos registered successfully.
+2024-06-28 11:23:09,301 - root - INFO - Plugin sin registered successfully.
+2024-06-28 11:23:09,302 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 11:23:09,302 - root - INFO - Plugin square registered successfully.
+2024-06-28 11:23:09,302 - root - INFO - Plugin tan registered successfully.
+2024-06-28 11:27:34,828 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 11:27:38,350 - root - INFO - Logging configured.
+2024-06-28 11:27:38,350 - root - INFO - Environment variables loaded.
+2024-06-28 11:27:41,609 - root - INFO - Plugin cos registered successfully.
+2024-06-28 11:27:41,609 - root - INFO - Plugin sin registered successfully.
+2024-06-28 11:27:41,610 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 11:27:41,610 - root - INFO - Plugin square registered successfully.
+2024-06-28 11:27:41,610 - root - INFO - Plugin tan registered successfully.
+2024-06-28 11:28:51,121 - root - INFO - Plugin cos registered successfully.
+2024-06-28 11:28:51,121 - root - INFO - Plugin sin registered successfully.
+2024-06-28 11:28:51,121 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 11:28:51,121 - root - INFO - Plugin square registered successfully.
+2024-06-28 11:28:51,122 - root - INFO - Plugin tan registered successfully.
+2024-06-28 11:30:18,377 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 11:30:19,252 - root - INFO - Logging configured.
+2024-06-28 11:30:19,253 - root - INFO - Environment variables loaded.
+2024-06-28 11:30:21,454 - root - INFO - Plugin cos registered successfully.
+2024-06-28 11:30:21,454 - root - INFO - Plugin sin registered successfully.
+2024-06-28 11:30:21,455 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 11:30:21,455 - root - INFO - Plugin square registered successfully.
+2024-06-28 11:30:21,455 - root - INFO - Plugin tan registered successfully.
+2024-06-28 11:38:02,990 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 11:38:03,992 - root - INFO - Logging configured.
+2024-06-28 11:38:03,992 - root - INFO - Environment variables loaded.
+2024-06-28 11:38:06,396 - root - INFO - Plugin cos registered successfully.
+2024-06-28 11:38:06,397 - root - INFO - Plugin sin registered successfully.
+2024-06-28 11:38:06,397 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 11:38:06,398 - root - INFO - Plugin square registered successfully.
+2024-06-28 11:38:06,398 - root - INFO - Plugin tan registered successfully.
+2024-06-28 11:39:24,191 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 11:39:25,711 - root - INFO - Logging configured.
+2024-06-28 11:39:25,712 - root - INFO - Environment variables loaded.
+2024-06-28 11:39:29,272 - root - INFO - Plugin cos registered successfully.
+2024-06-28 11:39:29,272 - root - INFO - Plugin sin registered successfully.
+2024-06-28 11:39:29,272 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 11:39:29,273 - root - INFO - Plugin square registered successfully.
+2024-06-28 11:39:29,273 - root - INFO - Plugin tan registered successfully.
+2024-06-28 11:41:32,744 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 11:41:34,474 - root - INFO - Logging configured.
+2024-06-28 11:41:34,474 - root - INFO - Environment variables loaded.
+2024-06-28 11:42:32,941 - root - INFO - Plugin cos registered successfully.
+2024-06-28 11:42:32,942 - root - INFO - Plugin sin registered successfully.
+2024-06-28 11:42:32,942 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 11:42:32,942 - root - INFO - Plugin square registered successfully.
+2024-06-28 11:42:32,943 - root - INFO - Plugin tan registered successfully.
+2024-06-28 11:51:59,336 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 11:52:00,744 - root - INFO - Logging configured.
+2024-06-28 11:52:00,745 - root - INFO - Environment variables loaded.
+2024-06-28 11:52:03,614 - root - INFO - Plugin cos registered successfully.
+2024-06-28 11:52:03,616 - root - INFO - Plugin sin registered successfully.
+2024-06-28 11:52:03,617 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 11:52:03,618 - root - INFO - Plugin square registered successfully.
+2024-06-28 11:52:03,618 - root - INFO - Plugin tan registered successfully.
+2024-06-28 11:53:22,343 - root - INFO - Plugin cos registered successfully.
+2024-06-28 11:53:22,346 - root - INFO - Plugin sin registered successfully.
+2024-06-28 11:53:22,348 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 11:53:22,349 - root - INFO - Plugin square registered successfully.
+2024-06-28 11:53:22,351 - root - INFO - Plugin tan registered successfully.
+2024-06-28 13:59:19,124 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 13:59:20,232 - root - INFO - Logging configured.
+2024-06-28 13:59:20,233 - root - INFO - Environment variables loaded.
+2024-06-28 13:59:22,933 - root - INFO - Plugin cos registered successfully.
+2024-06-28 13:59:22,934 - root - INFO - Plugin sin registered successfully.
+2024-06-28 13:59:22,934 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 13:59:22,935 - root - INFO - Plugin square registered successfully.
+2024-06-28 13:59:22,936 - root - INFO - Plugin tan registered successfully.
+2024-06-28 13:59:26,848 - root - INFO - Result of cos for 6.0 is: 0.960170286650366
+2024-06-28 14:02:15,600 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 14:05:24,814 - root - INFO - Logging configured.
+2024-06-28 14:05:24,815 - root - INFO - Environment variables loaded.
+2024-06-28 14:05:27,480 - root - INFO - Plugin cos registered successfully.
+2024-06-28 14:05:27,481 - root - INFO - Plugin sin registered successfully.
+2024-06-28 14:05:27,482 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 14:05:27,482 - root - INFO - Plugin square registered successfully.
+2024-06-28 14:05:27,483 - root - INFO - Plugin tan registered successfully.
+2024-06-28 14:05:32,683 - root - INFO - Result of cos for 6.0 is: 0.9602
+2024-06-28 14:12:50,370 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 14:12:51,964 - root - INFO - Logging configured.
+2024-06-28 14:12:51,964 - root - INFO - Environment variables loaded.
+2024-06-28 14:12:54,886 - root - INFO - Plugin cos registered successfully.
+2024-06-28 14:12:54,896 - root - INFO - Plugin sin registered successfully.
+2024-06-28 14:12:54,899 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 14:12:54,900 - root - INFO - Plugin square registered successfully.
+2024-06-28 14:12:54,901 - root - INFO - Plugin tan registered successfully.
+2024-06-28 14:12:59,714 - root - INFO - Result of sin for 4.0 is: -0.7568
+2024-06-28 14:13:11,474 - root - INFO - Plugin cos registered successfully.
+2024-06-28 14:13:11,474 - root - INFO - Plugin sin registered successfully.
+2024-06-28 14:13:11,475 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 14:13:11,475 - root - INFO - Plugin square registered successfully.
+2024-06-28 14:13:11,475 - root - INFO - Plugin tan registered successfully.
+2024-06-28 14:13:18,466 - root - ERROR - Invalid input. Please provide correct inputs.
+2024-06-28 14:15:11,234 - root - INFO - Logging configured.
+2024-06-28 14:15:11,234 - root - INFO - Environment variables loaded.
+2024-06-28 14:15:13,670 - root - INFO - Plugin cos registered successfully.
+2024-06-28 14:15:13,670 - root - INFO - Plugin sin registered successfully.
+2024-06-28 14:15:13,671 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 14:15:13,671 - root - INFO - Plugin square registered successfully.
+2024-06-28 14:15:13,671 - root - INFO - Plugin tan registered successfully.
+2024-06-28 14:15:18,666 - root - INFO - Result of sqrt for 4.0 is: 2.0000
+2024-06-28 14:15:30,946 - root - INFO - Plugin cos registered successfully.
+2024-06-28 14:15:30,946 - root - INFO - Plugin sin registered successfully.
+2024-06-28 14:15:30,946 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 14:15:30,946 - root - INFO - Plugin square registered successfully.
+2024-06-28 14:15:30,946 - root - INFO - Plugin tan registered successfully.
+2024-06-28 14:15:36,289 - root - INFO - Result of square for 5.0 is: 25.0000
+2024-06-28 14:15:39,330 - root - INFO - Plugin cos registered successfully.
+2024-06-28 14:15:39,330 - root - INFO - Plugin sin registered successfully.
+2024-06-28 14:15:39,330 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 14:15:39,330 - root - INFO - Plugin square registered successfully.
+2024-06-28 14:15:39,330 - root - INFO - Plugin tan registered successfully.
+2024-06-28 14:15:42,477 - root - INFO - Result of tan for 7.0 is: 0.8714
+2024-06-28 14:15:51,453 - root - ERROR - Error: Division by zero
+2024-06-28 14:23:06,964 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 14:23:28,292 - root - INFO - Logging configured.
+2024-06-28 14:23:28,293 - root - INFO - Environment variables loaded.
+2024-06-28 14:23:39,549 - root - INFO - Plugin cos registered successfully.
+2024-06-28 14:23:39,549 - root - INFO - Plugin sin registered successfully.
+2024-06-28 14:23:39,549 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 14:23:39,550 - root - INFO - Plugin square registered successfully.
+2024-06-28 14:23:39,550 - root - INFO - Plugin tan registered successfully.
+2024-06-28 14:23:51,128 - root - ERROR - Invalid input. Please provide correct inputs.
+2024-06-28 14:24:11,652 - root - ERROR - No such plugin command: shihi
+2024-06-28 14:25:59,726 - root - ERROR - Invalid input. Please provide correct inputs.
+2024-06-28 14:26:06,663 - root - INFO - Result of cos for 2.0 is: -0.4161
+2024-06-28 14:26:20,023 - root - ERROR - Invalid input. Please provide correct inputs.
+2024-06-28 14:26:29,716 - root - INFO - Result of sin for 1.0 is: 0.8415
+2024-06-28 14:29:09,343 - root - ERROR - Invalid input. Please provide correct inputs.
+2024-06-28 14:29:18,780 - root - INFO - Logging configured.
+2024-06-28 14:29:18,781 - root - INFO - Environment variables loaded.
+2024-06-28 14:29:21,307 - root - INFO - Plugin cos registered successfully.
+2024-06-28 14:29:21,308 - root - INFO - Plugin sin registered successfully.
+2024-06-28 14:29:21,308 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 14:29:21,309 - root - INFO - Plugin square registered successfully.
+2024-06-28 14:29:21,309 - root - INFO - Plugin tan registered successfully.
+2024-06-28 14:29:58,723 - root - ERROR - Invalid input. Please provide correct inputs.
+2024-06-28 14:30:12,687 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 14:30:19,967 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 14:30:22,417 - root - INFO - Logging configured.
+2024-06-28 14:30:22,418 - root - INFO - Environment variables loaded.
+2024-06-28 14:30:25,211 - root - INFO - Plugin cos registered successfully.
+2024-06-28 14:30:25,212 - root - INFO - Plugin sin registered successfully.
+2024-06-28 14:30:25,212 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 14:30:25,212 - root - INFO - Plugin square registered successfully.
+2024-06-28 14:30:25,213 - root - INFO - Plugin tan registered successfully.
+2024-06-28 14:30:27,702 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 14:30:39,875 - root - INFO - Plugin cos registered successfully.
+2024-06-28 14:30:39,875 - root - INFO - Plugin sin registered successfully.
+2024-06-28 14:30:39,875 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 14:30:39,876 - root - INFO - Plugin square registered successfully.
+2024-06-28 14:30:39,876 - root - INFO - Plugin tan registered successfully.
+2024-06-28 14:30:44,594 - root - ERROR - Invalid input. Please provide correct inputs.
+2024-06-28 14:30:57,978 - root - INFO - Result of square for 2.0 is: 4.0000
+2024-06-28 14:31:01,594 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 14:31:46,603 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 14:31:47,763 - root - INFO - Logging configured.
+2024-06-28 14:31:47,764 - root - INFO - Environment variables loaded.
+2024-06-28 14:31:50,255 - root - INFO - Plugin cos registered successfully.
+2024-06-28 14:31:50,255 - root - INFO - Plugin sin registered successfully.
+2024-06-28 14:31:50,256 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 14:31:50,256 - root - INFO - Plugin square registered successfully.
+2024-06-28 14:31:50,257 - root - INFO - Plugin tan registered successfully.
+2024-06-28 14:32:06,270 - root - ERROR - No such plugin command: uhiu
+2024-06-28 14:32:14,018 - root - INFO - Back to Basic calculator operations!
+2024-06-28 14:42:27,427 - root - INFO - Plugin cos registered successfully.
+2024-06-28 14:42:27,430 - root - INFO - Plugin sin registered successfully.
+2024-06-28 14:42:27,431 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 14:42:27,431 - root - INFO - Plugin square registered successfully.
+2024-06-28 14:42:27,432 - root - INFO - Plugin tan registered successfully.
+2024-06-28 14:55:59,189 - root - ERROR - No such plugin command: wfdw
+2024-06-28 14:59:07,196 - root - INFO - Back to Basic calculator operations!
+2024-06-28 14:59:09,268 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 14:59:10,286 - root - INFO - Logging configured.
+2024-06-28 14:59:10,287 - root - INFO - Environment variables loaded.
+2024-06-28 14:59:12,657 - root - INFO - Plugin cos registered successfully.
+2024-06-28 14:59:12,659 - root - INFO - Plugin sin registered successfully.
+2024-06-28 14:59:12,659 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 14:59:12,660 - root - INFO - Plugin square registered successfully.
+2024-06-28 14:59:12,660 - root - INFO - Plugin tan registered successfully.
+2024-06-28 15:00:17,749 - root - INFO - Logging configured.
+2024-06-28 15:00:17,750 - root - INFO - Environment variables loaded.
+2024-06-28 15:00:20,080 - root - INFO - Plugin cos registered successfully.
+2024-06-28 15:00:20,081 - root - INFO - Plugin sin registered successfully.
+2024-06-28 15:00:20,089 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 15:00:20,089 - root - INFO - Plugin square registered successfully.
+2024-06-28 15:00:20,090 - root - INFO - Plugin tan registered successfully.
+2024-06-28 15:00:39,352 - root - ERROR - Invalid input. Please provide correct inputs.
+2024-06-28 15:03:31,955 - root - INFO - Back to Basic calculator operations!
+2024-06-28 15:03:35,039 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-28 15:03:35,849 - root - INFO - Logging configured.
+2024-06-28 15:03:35,850 - root - INFO - Environment variables loaded.
+2024-06-28 15:03:37,956 - root - INFO - Plugin cos registered successfully.
+2024-06-28 15:03:37,956 - root - INFO - Plugin sin registered successfully.
+2024-06-28 15:03:37,956 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 15:03:37,957 - root - INFO - Plugin square registered successfully.
+2024-06-28 15:03:37,957 - root - INFO - Plugin tan registered successfully.
+2024-06-28 15:03:38,959 - root - ERROR - No such plugin command: 2
+2024-06-28 15:03:46,318 - root - ERROR - Invalid input. Please provide correct inputs.
+2024-06-28 15:11:01,865 - root - INFO - Logging configured.
+2024-06-28 15:11:01,866 - root - INFO - Environment variables loaded.
+2024-06-28 15:11:04,313 - root - INFO - Plugin cos registered successfully.
+2024-06-28 15:11:04,314 - root - INFO - Plugin sin registered successfully.
+2024-06-28 15:11:04,314 - root - INFO - Plugin sqrt registered successfully.
+2024-06-28 15:11:04,315 - root - INFO - Plugin square registered successfully.
+2024-06-28 15:11:04,315 - root - INFO - Plugin tan registered successfully.
+2024-06-28 15:11:07,709 - root - INFO - Result of cos for 1.0 is: 0.5403
+2024-06-28 15:11:20,569 - root - ERROR - No such plugin command: qw
+2024-06-28 15:11:27,145 - root - ERROR - Invalid input. Please provide valid number.
+2024-06-28 15:11:33,849 - root - INFO - Result of square for 100.0 is: 10000.0000
+2024-06-28 15:14:51,864 - root - INFO - Back to Basic calculator operations!
+2024-06-28 15:14:58,668 - root - INFO - Exiting the calculator. Goodbye!

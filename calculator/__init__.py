@@ -2,7 +2,15 @@ import os
 import pkgutil
 import importlib
 import sys
+
 from calculator.operations import CommandHandler, Command
+from calculator.operations import CommandHandler
+from calculator.operations.add import AddCommand
+from calculator.operations.subtract import SubtractCommand
+from calculator.operations.multiply import MultiplyCommand
+from calculator.operations.divide import DivideCommand
+from calculator.operations.menu import MenuCommand
+
 from dotenv import load_dotenv
 import logging
 import logging.config
@@ -14,8 +22,8 @@ class App:
         load_dotenv()
         self.settings = {}  # Initialize settings as an empty dictionary
         # Load all environment variables into settings
-        #for key, value in os.environ.items():
-        #    self.settings[key] = value
+        for key, value in os.environ.items():
+            self.settings[key] = value
         
         self.settings =  self.load_environment_variables()
         # Default to 'PRODUCTION' if 'ENVIRONMENT' not set
@@ -46,18 +54,29 @@ class App:
                 plugin_module = importlib.import_module(f'{plugins_package}.{plugin_name}')
                 for item_name in dir(plugin_module):
                     item = getattr(plugin_module, item_name)
+                    #print(f"Item : {item}")
                     try:
                         if issubclass(item, (Command)):  # Assuming a BaseCommand class exists
-                            self.command_handler.register_command(plugin_name, item())
+                            self.command_handler.register_plugin_command(plugin_name, item())
+                            logging.info(f"Plugin {plugin_name} registered successfully.")
                     except TypeError:
+                        #logging.error(f"Error loading plugin {plugin_name}")
                         continue  # If item is not a class or unrelated class, just ignore
     def start(self):
         # Register commands here
-        self.load_plugins()
+        self.command_handler.register_command("add", AddCommand())
+        self.command_handler.register_command("subtract", SubtractCommand())
+        self.command_handler.register_command("multiply" , MultiplyCommand())
+        self.command_handler.register_command("divide" , DivideCommand())
+
+        #for menu
+        self.command_handler.register_command("menu" , MenuCommand())
+    
+        #self.load_plugins()
 
         while True:
             # Input command from the user
-            command = input("Enter command (add/subtract/multiply/divide, 'exit' to quit): ").strip().lower()
+            command = input("Enter command (add/subtract/multiply/divide/menu, 'exit' to quit): ").strip().lower()
             if command == 'exit':
                 logging.info("Exiting the calculator. Goodbye!")
                 print("Exiting the calculator. Goodbye!")
@@ -80,9 +99,13 @@ class App:
                 if result is not None:
                     logging.info(f"Result of {command} {num1} and {num2} is: {result}")
                     print(f"Result of {command} {num1} and {num2} is: {result}")
+            
+            elif command in ['menu']: 
+                self.load_plugins()
+                self.command_handler.execute_menu_command()
+            
             else:
                 # Handle unknown commands
                 logging.error("Unknown command. Please enter a valid command.")
                 print("Unknown command. Please enter a valid command.")
                 break
-            
