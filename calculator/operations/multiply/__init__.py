@@ -7,6 +7,7 @@ class MultiplyCommand(Command):
         #print(f'Performing Multiplication!')
         result  =multiply(num1, num2)   
         print(f'Result of multiplication: {result}')
+        return result
 
 def multiply(x, y):
     return x * y

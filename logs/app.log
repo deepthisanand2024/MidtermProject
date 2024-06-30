@@ -856,3 +856,283 @@
 2024-06-28 15:11:33,849 - root - INFO - Result of square for 100.0 is: 10000.0000
 2024-06-28 15:14:51,864 - root - INFO - Back to Basic calculator operations!
 2024-06-28 15:14:58,668 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 15:01:15,900 - root - INFO - Logging configured.
+2024-06-29 15:01:15,903 - root - INFO - Environment variables loaded.
+2024-06-29 15:01:29,864 - root - INFO - Plugin cos registered successfully.
+2024-06-29 15:01:29,865 - root - INFO - Plugin sin registered successfully.
+2024-06-29 15:01:29,866 - root - INFO - Plugin sqrt registered successfully.
+2024-06-29 15:01:29,867 - root - INFO - Plugin square registered successfully.
+2024-06-29 15:01:29,868 - root - INFO - Plugin tan registered successfully.
+2024-06-29 15:01:34,200 - root - INFO - Result of cos for 1.0 is: 0.5403
+2024-06-29 15:01:41,640 - root - INFO - Back to Basic calculator operations!
+2024-06-29 15:01:43,504 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 15:33:17,388 - root - INFO - Logging configured.
+2024-06-29 15:33:17,392 - root - INFO - Environment variables loaded.
+2024-06-29 15:34:00,759 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 15:34:02,111 - root - INFO - Logging configured.
+2024-06-29 15:34:02,112 - root - INFO - Environment variables loaded.
+2024-06-29 15:35:12,221 - root - INFO - Logging configured.
+2024-06-29 15:35:12,221 - root - INFO - Environment variables loaded.
+2024-06-29 15:35:39,215 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 15:35:40,024 - root - INFO - Logging configured.
+2024-06-29 15:35:40,025 - root - INFO - Environment variables loaded.
+2024-06-29 15:38:01,147 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 15:56:58,256 - root - INFO - Logging configured.
+2024-06-29 15:56:58,256 - root - INFO - Environment variables loaded.
+2024-06-29 15:58:22,234 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 15:58:23,561 - root - INFO - Logging configured.
+2024-06-29 15:58:23,561 - root - INFO - Environment variables loaded.
+2024-06-29 15:58:23,562 - root - INFO - The directory './data' is created
+2024-06-29 16:05:48,975 - root - INFO - Logging configured.
+2024-06-29 16:05:48,976 - root - INFO - Environment variables loaded.
+2024-06-29 16:12:33,442 - root - INFO - Logging configured.
+2024-06-29 16:12:33,443 - root - INFO - Environment variables loaded.
+2024-06-29 16:19:17,517 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 16:19:22,491 - root - INFO - Logging configured.
+2024-06-29 16:19:22,491 - root - INFO - Environment variables loaded.
+2024-06-29 16:21:11,725 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 16:21:13,873 - root - INFO - Logging configured.
+2024-06-29 16:21:13,874 - root - INFO - Environment variables loaded.
+2024-06-29 16:22:22,777 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 16:22:24,292 - root - INFO - Logging configured.
+2024-06-29 16:22:24,293 - root - INFO - Environment variables loaded.
+2024-06-29 16:24:56,938 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 16:24:59,285 - root - INFO - Logging configured.
+2024-06-29 16:24:59,286 - root - INFO - Environment variables loaded.
+2024-06-29 16:27:17,291 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 16:27:18,974 - root - INFO - Logging configured.
+2024-06-29 16:27:18,975 - root - INFO - Environment variables loaded.
+2024-06-29 16:28:26,043 - root - INFO - Plugin cos registered successfully.
+2024-06-29 16:28:26,048 - root - INFO - Plugin sin registered successfully.
+2024-06-29 16:28:26,049 - root - INFO - Plugin sqrt registered successfully.
+2024-06-29 16:28:26,051 - root - INFO - Plugin square registered successfully.
+2024-06-29 16:28:26,053 - root - INFO - Plugin tan registered successfully.
+2024-06-29 16:28:30,520 - root - INFO - Result of sin for 1.0 is: 0.8415
+2024-06-29 16:30:35,835 - root - ERROR - No such plugin command: exit6
+2024-06-29 16:30:38,098 - root - INFO - Back to Basic calculator operations!
+2024-06-29 16:30:42,266 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 16:30:43,562 - root - INFO - Logging configured.
+2024-06-29 16:30:43,563 - root - INFO - Environment variables loaded.
+2024-06-29 16:35:32,234 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 16:35:33,944 - root - INFO - Logging configured.
+2024-06-29 16:35:33,945 - root - INFO - Environment variables loaded.
+2024-06-29 16:35:37,234 - root - INFO - Result of add 3.0 and 6.0 is: 9.0
+2024-06-29 16:41:23,098 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 16:41:26,072 - root - INFO - Logging configured.
+2024-06-29 16:41:26,073 - root - INFO - Environment variables loaded.
+2024-06-29 16:41:29,582 - root - INFO - Result of add 3.0 and 5.0 is: 8.0
+2024-06-29 16:42:08,650 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 16:42:09,901 - root - INFO - Logging configured.
+2024-06-29 16:42:09,902 - root - INFO - Environment variables loaded.
+2024-06-29 16:42:13,131 - root - INFO - Result of add 1.0 and 2.0 is: 3.0
+2024-06-29 16:45:45,253 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 16:45:46,812 - root - INFO - Logging configured.
+2024-06-29 16:45:46,813 - root - INFO - Environment variables loaded.
+2024-06-29 16:45:50,722 - root - INFO - Result of add 4.0 and 6.0 is: 10.0
+2024-06-29 16:46:38,670 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 16:46:39,937 - root - INFO - Logging configured.
+2024-06-29 16:46:39,938 - root - INFO - Environment variables loaded.
+2024-06-29 16:46:43,094 - root - INFO - Result of add 4.0 and 6.0 is: 10.0
+2024-06-29 16:53:09,351 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 16:53:10,661 - root - INFO - Logging configured.
+2024-06-29 16:53:10,662 - root - INFO - Environment variables loaded.
+2024-06-29 16:53:13,851 - root - INFO - Result of add 1.0 and 23.0 is: 24.0
+2024-06-29 16:53:25,530 - root - INFO - Logging configured.
+2024-06-29 16:53:25,530 - root - INFO - Environment variables loaded.
+2024-06-29 16:53:28,092 - root - INFO - Result of add 3.0 and 5.0 is: 8.0
+2024-06-29 16:54:41,033 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 16:54:42,132 - root - INFO - Logging configured.
+2024-06-29 16:54:42,133 - root - INFO - Environment variables loaded.
+2024-06-29 16:54:44,693 - root - INFO - Result of add 4.0 and 5.0 is: 9.0
+2024-06-29 17:23:15,807 - root - INFO - Result of division: 1.5
+2024-06-29 17:23:15,808 - root - INFO - Result of divide 3.0 and 2.0 is: 1.5
+2024-06-29 17:23:32,806 - root - INFO - Result of subtract 2.0 and 1.0 is: 1.0
+2024-06-29 17:23:39,861 - root - INFO - Plugin cos registered successfully.
+2024-06-29 17:23:39,863 - root - INFO - Plugin sin registered successfully.
+2024-06-29 17:23:39,864 - root - INFO - Plugin sqrt registered successfully.
+2024-06-29 17:23:39,865 - root - INFO - Plugin square registered successfully.
+2024-06-29 17:23:39,866 - root - INFO - Plugin tan registered successfully.
+2024-06-29 17:23:44,258 - root - INFO - Result of cos for 1.0 is: 0.5403
+2024-06-29 18:18:11,326 - root - INFO - Back to Basic calculator operations!
+2024-06-29 18:18:14,566 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 18:18:16,451 - root - INFO - Logging configured.
+2024-06-29 18:18:16,452 - root - INFO - Environment variables loaded.
+2024-06-29 18:18:18,579 - root - INFO - Plugin cos registered successfully.
+2024-06-29 18:18:18,580 - root - INFO - Plugin sin registered successfully.
+2024-06-29 18:18:18,581 - root - INFO - Plugin sqrt registered successfully.
+2024-06-29 18:18:18,582 - root - INFO - Plugin square registered successfully.
+2024-06-29 18:18:18,582 - root - INFO - Plugin tan registered successfully.
+2024-06-29 18:18:22,546 - root - INFO - Result of sin for 1.0 is: 0.8415
+2024-06-29 18:19:45,761 - root - INFO - Logging configured.
+2024-06-29 18:19:45,762 - root - INFO - Environment variables loaded.
+2024-06-29 18:19:47,887 - root - INFO - Plugin cos registered successfully.
+2024-06-29 18:19:47,888 - root - INFO - Plugin sin registered successfully.
+2024-06-29 18:19:47,888 - root - INFO - Plugin sqrt registered successfully.
+2024-06-29 18:19:47,888 - root - INFO - Plugin square registered successfully.
+2024-06-29 18:19:47,889 - root - INFO - Plugin tan registered successfully.
+2024-06-29 18:19:51,335 - root - INFO - Result of tan for 2.0 is: -2.1850
+2024-06-29 18:23:48,864 - root - INFO - Back to Basic calculator operations!
+2024-06-29 18:23:51,976 - root - INFO - Plugin cos registered successfully.
+2024-06-29 18:23:51,976 - root - INFO - Plugin sin registered successfully.
+2024-06-29 18:23:51,977 - root - INFO - Plugin sqrt registered successfully.
+2024-06-29 18:23:51,977 - root - INFO - Plugin square registered successfully.
+2024-06-29 18:23:51,977 - root - INFO - Plugin tan registered successfully.
+2024-06-29 18:23:55,632 - root - INFO - Result of tan for 2.0 is: -2.1850
+2024-06-29 18:24:38,928 - root - INFO - Result of sqrt for 4.0 is: 2.0000
+2024-06-29 18:24:51,248 - root - INFO - Result of square for 4.0 is: 16.0000
+2024-06-29 18:24:57,655 - root - INFO - Result of cos for 9.0 is: -0.9111
+2024-06-29 18:25:17,091 - root - INFO - Result of sin for 1.0 is: 0.8415
+2024-06-29 18:25:23,356 - root - INFO - Result of tan for 4.0 is: 1.1578
+2024-06-29 18:25:44,647 - root - INFO - Back to Basic calculator operations!
+2024-06-29 18:25:51,072 - root - INFO - Result of subtract 100.0 and 22.0 is: 78.0
+2024-06-29 18:26:03,524 - root - INFO - Plugin cos registered successfully.
+2024-06-29 18:26:03,524 - root - INFO - Plugin sin registered successfully.
+2024-06-29 18:26:03,524 - root - INFO - Plugin sqrt registered successfully.
+2024-06-29 18:26:03,525 - root - INFO - Plugin square registered successfully.
+2024-06-29 18:26:03,525 - root - INFO - Plugin tan registered successfully.
+2024-06-29 18:26:10,291 - root - INFO - Result of tan for 2.0 is: -2.1850
+2024-06-29 18:28:02,943 - root - INFO - Back to Basic calculator operations!
+2024-06-29 18:28:05,288 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 18:28:31,378 - root - INFO - Logging configured.
+2024-06-29 18:28:31,379 - root - INFO - Environment variables loaded.
+2024-06-29 18:28:33,952 - root - INFO - Plugin cos registered successfully.
+2024-06-29 18:28:33,958 - root - INFO - Plugin sin registered successfully.
+2024-06-29 18:28:33,958 - root - INFO - Plugin sqrt registered successfully.
+2024-06-29 18:28:33,958 - root - INFO - Plugin square registered successfully.
+2024-06-29 18:28:33,959 - root - INFO - Plugin tan registered successfully.
+2024-06-29 18:28:38,027 - root - INFO - Result of sqrt for 2.0 is: 1.4142
+2024-06-29 18:28:47,919 - root - INFO - Back to Basic calculator operations!
+2024-06-29 18:28:50,591 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 18:28:51,856 - root - INFO - Logging configured.
+2024-06-29 18:28:51,857 - root - INFO - Environment variables loaded.
+2024-06-29 18:28:55,432 - root - INFO - Result of add 1.0 and 3.0 is: 4.0
+2024-06-29 18:33:00,380 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 18:33:01,852 - root - INFO - Logging configured.
+2024-06-29 18:33:01,854 - root - INFO - Environment variables loaded.
+2024-06-29 18:33:05,140 - root - INFO - Result of add 1.0 and 3.0 is: 4.0
+2024-06-29 18:35:43,674 - root - INFO - Logging configured.
+2024-06-29 18:35:43,675 - root - INFO - Environment variables loaded.
+2024-06-29 18:35:50,144 - root - INFO - Result of add 2.0 and 3.0 is: 5.0
+2024-06-29 18:38:23,000 - root - ERROR - Unknown command. Please enter a valid command.
+2024-06-29 18:56:46,255 - root - INFO - Logging configured.
+2024-06-29 18:56:46,257 - root - INFO - Environment variables loaded.
+2024-06-29 18:56:52,044 - root - INFO - Result of add 2.0 and 45.0 is: 47.0
+2024-06-29 19:39:58,430 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 19:40:00,532 - root - INFO - Logging configured.
+2024-06-29 19:40:00,534 - root - INFO - Environment variables loaded.
+2024-06-29 19:40:04,230 - root - INFO - Result of add 2.0 and 4.0 is: 6.0
+2024-06-29 19:40:13,477 - root - INFO - Result of division: 4.0
+2024-06-29 19:40:13,478 - root - INFO - Result of divide 4.0 and 1.0 is: 4.0
+2024-06-29 19:44:15,990 - root - INFO - Logging configured.
+2024-06-29 19:44:15,990 - root - INFO - Environment variables loaded.
+2024-06-29 19:44:20,285 - root - INFO - Result of add 35.0 and 66.0 is: 101.0
+2024-06-29 19:44:27,373 - root - INFO - Result of multiply 22.0 and 9.0 is: 198.0
+2024-06-29 19:46:06,198 - root - INFO - Logging configured.
+2024-06-29 19:46:06,199 - root - INFO - Environment variables loaded.
+2024-06-29 19:46:09,157 - root - INFO - Result of add 233.0 and 66.0 is: 299.0
+2024-06-29 19:47:39,369 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 19:48:58,512 - root - INFO - Logging configured.
+2024-06-29 19:48:58,513 - root - INFO - Environment variables loaded.
+2024-06-29 19:49:02,693 - root - INFO - Result of add 4543.0 and 57.0 is: 4600.0
+2024-06-29 19:49:10,308 - root - INFO - Result of multiply 23.0 and 55.0 is: 1265.0
+2024-06-29 19:50:58,528 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 19:50:59,693 - root - INFO - Logging configured.
+2024-06-29 19:50:59,694 - root - INFO - Environment variables loaded.
+2024-06-29 19:51:03,120 - root - INFO - Result of add 57.0 and 232.0 is: 289.0
+2024-06-29 19:51:09,048 - root - INFO - Result of multiply 22.0 and 11.0 is: 242.0
+2024-06-29 19:51:13,578 - root - INFO - Record 0: add: 57.0, 232.0: 289.0
+2024-06-29 19:51:13,579 - root - INFO - Index: 0,     Command: add
+2024-06-29 19:51:13,579 - root - INFO - Index: 0,     Arguments: 57.0, 232.0
+2024-06-29 19:51:13,579 - root - INFO - Index: 0,     Result: 289.0
+2024-06-29 19:51:13,579 - root - INFO - Record 1: multiply: 22.0, 11.0: 242.0
+2024-06-29 19:51:13,580 - root - INFO - Index: 1,     Command: multiply
+2024-06-29 19:51:13,580 - root - INFO - Index: 1,     Arguments: 22.0, 11.0
+2024-06-29 19:51:13,580 - root - INFO - Index: 1,     Result: 242.0
+2024-06-29 19:53:26,562 - root - INFO - Plugin cos registered successfully.
+2024-06-29 19:53:26,563 - root - INFO - Plugin sin registered successfully.
+2024-06-29 19:53:26,564 - root - INFO - Plugin sqrt registered successfully.
+2024-06-29 19:53:26,564 - root - INFO - Plugin square registered successfully.
+2024-06-29 19:53:26,565 - root - INFO - Plugin tan registered successfully.
+2024-06-29 19:56:39,015 - root - INFO - Result of cos for 1.0 is: 0.5403
+2024-06-29 20:13:58,812 - root - INFO - Back to Basic calculator operations!
+2024-06-29 20:14:01,316 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 20:14:02,676 - root - INFO - Logging configured.
+2024-06-29 20:14:02,676 - root - INFO - Environment variables loaded.
+2024-06-29 20:14:07,156 - root - INFO - Result of add 433.0 and 121.0 is: 554.0
+2024-06-29 20:14:13,888 - root - INFO - Result of subtract 4353.0 and 12.0 is: 4341.0
+2024-06-29 20:14:23,441 - root - INFO - Plugin cos registered successfully.
+2024-06-29 20:14:23,441 - root - INFO - Plugin sin registered successfully.
+2024-06-29 20:14:23,441 - root - INFO - Plugin sqrt registered successfully.
+2024-06-29 20:14:23,442 - root - INFO - Plugin square registered successfully.
+2024-06-29 20:14:23,442 - root - INFO - Plugin tan registered successfully.
+2024-06-29 20:14:33,944 - root - INFO - Result of cos for 232.0 is: 0.8880
+2024-06-29 20:15:43,499 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 20:15:45,027 - root - INFO - Logging configured.
+2024-06-29 20:15:45,028 - root - INFO - Environment variables loaded.
+2024-06-29 20:15:50,440 - root - INFO - Result of add 3435.0 and 67.0 is: 3502.0
+2024-06-29 20:15:57,092 - root - INFO - Result of subtract 32432.0 and 87.0 is: 32345.0
+2024-06-29 20:15:59,780 - root - INFO - Plugin cos registered successfully.
+2024-06-29 20:15:59,781 - root - INFO - Plugin sin registered successfully.
+2024-06-29 20:15:59,781 - root - INFO - Plugin sqrt registered successfully.
+2024-06-29 20:15:59,782 - root - INFO - Plugin square registered successfully.
+2024-06-29 20:15:59,782 - root - INFO - Plugin tan registered successfully.
+2024-06-29 20:16:06,196 - root - INFO - Result of sin for 44.0 is: 0.0177
+2024-06-29 20:16:19,025 - root - INFO - Record 0: 
+2024-06-29 20:16:19,026 - root - INFO - Index: 0,     Command: add
+2024-06-29 20:16:19,026 - root - INFO - Index: 0,     Arguments: 3435.0, 67.0
+2024-06-29 20:16:19,026 - root - INFO - Index: 0,     Result: 3502.0
+2024-06-29 20:16:19,026 - root - INFO - Record 1: 
+2024-06-29 20:16:19,027 - root - INFO - Index: 1,     Command: subtract
+2024-06-29 20:16:19,027 - root - INFO - Index: 1,     Arguments: 32432.0, 87.0
+2024-06-29 20:16:19,027 - root - INFO - Index: 1,     Result: 32345.0
+2024-06-29 20:16:19,027 - root - INFO - Record 2: 
+2024-06-29 20:16:19,027 - root - INFO - Index: 2,     Command: sin
+2024-06-29 20:16:19,028 - root - INFO - Index: 2,     Arguments: 44.0
+2024-06-29 20:16:19,028 - root - INFO - Index: 2,     Result: 0.02
+2024-06-29 20:31:46,921 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 20:31:50,284 - root - INFO - Logging configured.
+2024-06-29 20:31:50,285 - root - INFO - Environment variables loaded.
+2024-06-29 20:31:54,713 - root - INFO - Result of add 435435.0 and 12.0 is: 435447.0
+2024-06-29 20:32:02,505 - root - INFO - Result of subtract 232.0 and 43.0 is: 189.0
+2024-06-29 20:32:05,236 - root - INFO - Plugin cos registered successfully.
+2024-06-29 20:32:05,237 - root - INFO - Plugin sin registered successfully.
+2024-06-29 20:32:05,248 - root - INFO - Plugin sqrt registered successfully.
+2024-06-29 20:32:05,249 - root - INFO - Plugin square registered successfully.
+2024-06-29 20:32:05,250 - root - INFO - Plugin tan registered successfully.
+2024-06-29 20:32:11,833 - root - INFO - Result of square for 34.0 is: 1156.0000
+2024-06-29 20:32:33,171 - root - INFO - Record 1: add: 
+2024-06-29 20:32:33,171 - root - INFO - Index: 1,     Command: add
+2024-06-29 20:32:33,172 - root - INFO - Index: 1,     Arguments: 435435.0, 12.0
+2024-06-29 20:32:33,172 - root - INFO - Index: 1,     Result: 435447.0
+2024-06-29 20:32:33,172 - root - INFO - Record 2: subtract: 
+2024-06-29 20:32:33,172 - root - INFO - Index: 2,     Command: subtract
+2024-06-29 20:32:33,172 - root - INFO - Index: 2,     Arguments: 232.0, 43.0
+2024-06-29 20:32:33,173 - root - INFO - Index: 2,     Result: 189.0
+2024-06-29 20:32:33,173 - root - INFO - Record 3: square: 
+2024-06-29 20:32:33,173 - root - INFO - Index: 3,     Command: square
+2024-06-29 20:32:33,173 - root - INFO - Index: 3,     Arguments: 34.0
+2024-06-29 20:32:33,173 - root - INFO - Index: 3,     Result: 1156.0
+2024-06-29 20:39:04,187 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 20:39:21,461 - root - INFO - Logging configured.
+2024-06-29 20:39:21,462 - root - INFO - Environment variables loaded.
+2024-06-29 20:39:26,184 - root - INFO - Result of add 343.0 and 565.0 is: 908.0
+2024-06-29 20:39:28,672 - root - INFO - Plugin cos registered successfully.
+2024-06-29 20:39:28,673 - root - INFO - Plugin sin registered successfully.
+2024-06-29 20:39:28,673 - root - INFO - Plugin sqrt registered successfully.
+2024-06-29 20:39:28,673 - root - INFO - Plugin square registered successfully.
+2024-06-29 20:39:28,674 - root - INFO - Plugin tan registered successfully.
+2024-06-29 20:39:31,984 - root - INFO - Result of tan for 243.0 is: 1.9520
+2024-06-29 20:39:35,925 - root - INFO - Calculation History Records: 
+2024-06-29 20:39:35,926 - root - INFO - Record 1: 
+2024-06-29 20:39:35,926 - root - INFO -     Command: add
+2024-06-29 20:39:35,926 - root - INFO -     Arguments: 343.0, 565.0
+2024-06-29 20:39:35,926 - root - INFO -     Result: 908.0
+2024-06-29 20:39:35,926 - root - INFO - Record 2: 
+2024-06-29 20:39:35,927 - root - INFO -     Command: tan
+2024-06-29 20:39:35,927 - root - INFO -     Arguments: 243.0
+2024-06-29 20:39:35,927 - root - INFO -     Result: 1.95
+2024-06-29 20:49:49,041 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-29 20:49:51,539 - root - INFO - Logging configured.
+2024-06-29 20:49:51,541 - root - INFO - Environment variables loaded.
+2024-06-29 20:49:54,597 - root - INFO - Result of add 343.0 and 232.0 is: 575.0
+2024-06-29 20:55:22,904 - root - INFO - Exiting the calculator. Goodbye!

@@ -7,6 +7,7 @@ class SubtractCommand(Command):
         #print(f'Performing Subtraction!')
         result  =subtract(num1, num2)   
         print(f'Result of subtraction: {result}')
+        return result
 
 def subtract(x, y):
     return x - y

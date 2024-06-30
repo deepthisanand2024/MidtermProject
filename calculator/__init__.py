@@ -3,7 +3,7 @@ import pkgutil
 import importlib
 import sys
 
-from calculator.operations import CommandHandler, Command
+from calculator.operations import CommandHandler, Command, HistoryManager
 from calculator.operations import CommandHandler
 from calculator.operations.add import AddCommand
 from calculator.operations.subtract import SubtractCommand
@@ -29,6 +29,7 @@ class App:
         # Default to 'PRODUCTION' if 'ENVIRONMENT' not set
         self.settings.setdefault('ENVIRONMENT', 'DEV')    
         self.command_handler = CommandHandler()
+        self.history_manager = HistoryManager()
 
     def configure_logging(self):
         logging_conf_path = 'logging.conf'
@@ -72,11 +73,22 @@ class App:
         #for menu
         self.command_handler.register_command("menu" , MenuCommand())
     
-        #self.load_plugins()
-
         while True:
             # Input command from the user
-            command = input("Enter command (add/subtract/multiply/divide/menu, 'exit' to quit): ").strip().lower()
+            
+            print("Enter command (choose one of the following options):")             
+            print(" - add")
+            print(" - subtract")
+            print(" - multiply")
+            print(" - divide")
+            print(" - menu")
+            print(" - load history")
+            print(" - save history")
+            print(" - clear history")
+            print(" - delete history")
+            print(" - exit (to quit)")
+            command = input().strip().lower()
+            
             if command == 'exit':
                 logging.info("Exiting the calculator. Goodbye!")
                 print("Exiting the calculator. Goodbye!")
@@ -94,15 +106,31 @@ class App:
 
                 # Handle the command and get the result
                 result =  self.command_handler.execute_command(command, num1, num2)
-
                 # Display the result
                 if result is not None:
                     logging.info(f"Result of {command} {num1} and {num2} is: {result}")
                     print(f"Result of {command} {num1} and {num2} is: {result}")
+                
+                ''' Adding the calculation to the history'''
+                args  = str(num1) + str(', ') + str(num2)                 
+                self.history_manager.add_to_history(command, args, str(result))
             
             elif command in ['menu']: 
                 self.load_plugins()
-                self.command_handler.execute_menu_command()
+                result, menu_op, menu_num = self.command_handler.execute_menu_command()
+                                
+                ''' Adding the calculation to the history'''              
+                self.history_manager.add_to_history(menu_op, menu_num, str(round(result, 2)))
+
+            #History management commands
+            elif command in ['load history']:
+                self.history_manager.load_history()
+            elif command in ['save history']:
+                self.history_manager.save_history()
+            elif command in ['clear history']:
+                self.history_manager.clear_history()
+            elif command in ['delete history']:
+                self.history_manager.delete_history()
             
             else:
                 # Handle unknown commands

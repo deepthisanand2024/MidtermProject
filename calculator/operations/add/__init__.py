@@ -7,6 +7,7 @@ class AddCommand(Command):
         #print(f'Performing Addition between {num1} and {num2}!')
         result  = add(num1, num2)   
         print(f'Result of addition: {result}')
+        return result
 
 def add(x, y):
     return x + y

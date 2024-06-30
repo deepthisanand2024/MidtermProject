@@ -11,6 +11,7 @@ class DivideCommand(Command):
         if (isinstance(result, (float))) :
             logging.info(f'Result of division: {result}')
             print(f'Result of division: {result}')
+            return result
 
 def divide(x:int, y:int):
     if y != 0:
