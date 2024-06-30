@@ -130,7 +130,17 @@ class App:
             elif command in ['clear history']:
                 self.history_manager.clear_history()
             elif command in ['delete history']:
-                self.history_manager.delete_history()
+                try:
+                    index = int(input("Enter the index of the record to be deleted : ").strip()) - 1
+                    if (index < 0):
+                        print(f"Index cannot be 0 or negative. Please enter valid index number.")   
+                        logging.error(f"Index cannot be 0 or negative. Please enter valid index number.") 
+                        continue
+                except ValueError:
+                    logging.error("Invalid index. Please enter valid record number.")
+                    print("Invalid index. Please enter valid record number.")
+                    continue
+                self.history_manager.delete_history(index)
             
             else:
                 # Handle unknown commands

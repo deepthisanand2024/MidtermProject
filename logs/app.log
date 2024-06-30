@@ -1136,3 +1136,126 @@
 2024-06-29 20:49:51,541 - root - INFO - Environment variables loaded.
 2024-06-29 20:49:54,597 - root - INFO - Result of add 343.0 and 232.0 is: 575.0
 2024-06-29 20:55:22,904 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-30 07:44:51,326 - root - INFO - Logging configured.
+2024-06-30 07:44:51,328 - root - INFO - Environment variables loaded.
+2024-06-30 07:44:57,117 - root - INFO - Result of add 343.0 and 121.0 is: 464.0
+2024-06-30 07:45:08,261 - root - INFO - Result of division: 5.0
+2024-06-30 07:45:08,261 - root - INFO - Result of divide 45.0 and 9.0 is: 5.0
+2024-06-30 07:45:13,640 - root - INFO - Plugin cos registered successfully.
+2024-06-30 07:45:13,641 - root - INFO - Plugin sin registered successfully.
+2024-06-30 07:45:13,641 - root - INFO - Plugin sqrt registered successfully.
+2024-06-30 07:45:13,642 - root - INFO - Plugin square registered successfully.
+2024-06-30 07:45:13,643 - root - INFO - Plugin tan registered successfully.
+2024-06-30 07:45:18,805 - root - INFO - Result of sqrt for 16.0 is: 4.0000
+2024-06-30 07:45:27,239 - root - INFO - Calculation History Records: 
+2024-06-30 07:45:27,239 - root - INFO - Record 1: 
+2024-06-30 07:45:27,243 - root - INFO -     Command: add
+2024-06-30 07:45:27,244 - root - INFO -     Arguments: 343.0, 121.0
+2024-06-30 07:45:27,244 - root - INFO -     Result: 464.0
+2024-06-30 07:45:27,244 - root - INFO - Record 2: 
+2024-06-30 07:45:27,244 - root - INFO -     Command: divide
+2024-06-30 07:45:27,245 - root - INFO -     Arguments: 45.0, 9.0
+2024-06-30 07:45:27,245 - root - INFO -     Result: 5.0
+2024-06-30 07:45:27,245 - root - INFO - Record 3: 
+2024-06-30 07:45:27,245 - root - INFO -     Command: sqrt
+2024-06-30 07:45:27,245 - root - INFO -     Arguments: 16.0
+2024-06-30 07:45:27,246 - root - INFO -     Result: 4.0
+2024-06-30 07:45:51,422 - root - INFO - Record at index 2 deleted successfully.
+2024-06-30 07:45:51,422 - root - INFO - Calculation History Records: 
+2024-06-30 07:45:51,422 - root - INFO - Record 1: 
+2024-06-30 07:45:51,423 - root - INFO -     Command: add
+2024-06-30 07:45:51,423 - root - INFO -     Arguments: 343.0, 121.0
+2024-06-30 07:45:51,423 - root - INFO -     Result: 464.0
+2024-06-30 07:45:51,423 - root - INFO - Record 2: 
+2024-06-30 07:45:51,423 - root - INFO -     Command: divide
+2024-06-30 07:45:51,423 - root - INFO -     Arguments: 45.0, 9.0
+2024-06-30 07:45:51,424 - root - INFO -     Result: 5.0
+2024-06-30 07:46:53,025 - root - INFO - Result of subtract 33.0 and 11.0 is: 22.0
+2024-06-30 07:46:58,055 - root - INFO - Calculation History Records: 
+2024-06-30 07:46:58,056 - root - INFO - Record 1: 
+2024-06-30 07:46:58,056 - root - INFO -     Command: add
+2024-06-30 07:46:58,056 - root - INFO -     Arguments: 343.0, 121.0
+2024-06-30 07:46:58,056 - root - INFO -     Result: 464.0
+2024-06-30 07:46:58,057 - root - INFO - Record 2: 
+2024-06-30 07:46:58,057 - root - INFO -     Command: divide
+2024-06-30 07:46:58,057 - root - INFO -     Arguments: 45.0, 9.0
+2024-06-30 07:46:58,057 - root - INFO -     Result: 5.0
+2024-06-30 07:46:58,057 - root - INFO - Record 3: 
+2024-06-30 07:46:58,058 - root - INFO -     Command: subtract
+2024-06-30 07:46:58,058 - root - INFO -     Arguments: 33.0, 11.0
+2024-06-30 07:46:58,058 - root - INFO -     Result: 22.0
+2024-06-30 07:47:20,388 - root - ERROR - Index cannot be 0. Please enter index value greater than 0.
+2024-06-30 07:47:36,224 - root - ERROR - Invalid index. Please enter valid record number.
+2024-06-30 07:48:19,286 - root - INFO - Record at index 2 deleted successfully.
+2024-06-30 07:48:19,286 - root - INFO - Calculation History Records: 
+2024-06-30 07:48:19,286 - root - INFO - Record 1: 
+2024-06-30 07:48:19,286 - root - INFO -     Command: add
+2024-06-30 07:48:19,287 - root - INFO -     Arguments: 343.0, 121.0
+2024-06-30 07:48:19,287 - root - INFO -     Result: 464.0
+2024-06-30 07:48:19,287 - root - INFO - Record 2: 
+2024-06-30 07:48:19,287 - root - INFO -     Command: divide
+2024-06-30 07:48:19,287 - root - INFO -     Arguments: 45.0, 9.0
+2024-06-30 07:48:19,288 - root - INFO -     Result: 5.0
+2024-06-30 07:49:31,324 - root - INFO - Plugin cos registered successfully.
+2024-06-30 07:49:31,324 - root - INFO - Plugin sin registered successfully.
+2024-06-30 07:49:31,324 - root - INFO - Plugin sqrt registered successfully.
+2024-06-30 07:49:31,324 - root - INFO - Plugin square registered successfully.
+2024-06-30 07:49:31,325 - root - INFO - Plugin tan registered successfully.
+2024-06-30 07:49:34,540 - root - ERROR - No such plugin command: sqaure
+2024-06-30 07:49:41,236 - root - INFO - Result of square for 4.0 is: 16.0000
+2024-06-30 07:49:56,263 - root - INFO - Record at index 1 deleted successfully.
+2024-06-30 07:49:56,263 - root - INFO - Calculation History Records: 
+2024-06-30 07:49:56,264 - root - INFO - Record 1: 
+2024-06-30 07:49:56,264 - root - INFO -     Command: add
+2024-06-30 07:49:56,264 - root - INFO -     Arguments: 343.0, 121.0
+2024-06-30 07:49:56,264 - root - INFO -     Result: 464.0
+2024-06-30 07:49:56,265 - root - INFO - Record 2: 
+2024-06-30 07:49:56,265 - root - INFO -     Command: square
+2024-06-30 07:49:56,265 - root - INFO -     Arguments: 4.0
+2024-06-30 07:49:56,265 - root - INFO -     Result: 16.0
+2024-06-30 07:50:35,979 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-30 07:50:37,520 - root - INFO - Logging configured.
+2024-06-30 07:50:37,521 - root - INFO - Environment variables loaded.
+2024-06-30 07:50:43,743 - root - INFO - Result of add 234.0 and 656.0 is: 890.0
+2024-06-30 07:50:49,071 - root - INFO - Result of subtract 1231.0 and 33.0 is: 1198.0
+2024-06-30 07:50:56,792 - root - INFO - Plugin cos registered successfully.
+2024-06-30 07:50:56,792 - root - INFO - Plugin sin registered successfully.
+2024-06-30 07:50:56,793 - root - INFO - Plugin sqrt registered successfully.
+2024-06-30 07:50:56,793 - root - INFO - Plugin square registered successfully.
+2024-06-30 07:50:56,794 - root - INFO - Plugin tan registered successfully.
+2024-06-30 07:51:00,679 - root - INFO - Result of cos for 22.0 is: -1.0000
+2024-06-30 07:51:22,179 - root - ERROR - Index cannot be 0. Please enter index value greater than 0.
+2024-06-30 07:53:44,940 - root - INFO - Record at index 2 deleted successfully.
+2024-06-30 07:53:44,940 - root - INFO - Calculation History Records: 
+2024-06-30 07:53:44,941 - root - INFO - Record 1: 
+2024-06-30 07:53:44,941 - root - INFO -     Command: add
+2024-06-30 07:53:44,941 - root - INFO -     Arguments: 234.0, 656.0
+2024-06-30 07:53:44,942 - root - INFO -     Result: 890.0
+2024-06-30 07:53:44,942 - root - INFO - Record 2: 
+2024-06-30 07:53:44,942 - root - INFO -     Command: subtract
+2024-06-30 07:53:44,942 - root - INFO -     Arguments: 1231.0, 33.0
+2024-06-30 07:53:44,942 - root - INFO -     Result: 1198.0
+2024-06-30 07:54:47,730 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-30 07:54:49,337 - root - INFO - Logging configured.
+2024-06-30 07:54:49,337 - root - INFO - Environment variables loaded.
+2024-06-30 07:54:55,314 - root - INFO - Result of add 2344.0 and 112.0 is: 2456.0
+2024-06-30 07:55:06,642 - root - ERROR - An error occurred while deleting the record!
+2024-06-30 07:56:22,750 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-30 07:56:23,895 - root - INFO - Logging configured.
+2024-06-30 07:56:23,896 - root - INFO - Environment variables loaded.
+2024-06-30 07:56:27,950 - root - INFO - Result of add 22.0 and 121.0 is: 143.0
+2024-06-30 07:56:33,943 - root - INFO - Record at index 0 deleted successfully.
+2024-06-30 07:58:59,177 - root - INFO - Exiting the calculator. Goodbye!
+2024-06-30 07:59:00,296 - root - INFO - Logging configured.
+2024-06-30 07:59:00,297 - root - INFO - Environment variables loaded.
+2024-06-30 07:59:06,665 - root - ERROR - Index cannot be 0 or negative. Please enter valid index number.
+2024-06-30 07:59:13,697 - root - ERROR - No calculation history available. Cannot delete records
+2024-06-30 07:59:30,293 - root - INFO - Result of add 232.0 and 545.0 is: 777.0
+2024-06-30 07:59:41,947 - root - INFO - Calculation History Records: 
+2024-06-30 07:59:41,947 - root - INFO - Record 1: 
+2024-06-30 07:59:41,948 - root - INFO -     Command: add
+2024-06-30 07:59:41,948 - root - INFO -     Arguments: 232.0, 545.0
+2024-06-30 07:59:41,948 - root - INFO -     Result: 777.0
+2024-06-30 07:59:50,934 - root - INFO - Record at index 0 deleted successfully.
+2024-06-30 07:59:50,936 - root - INFO - No history to show.
+2024-06-30 08:00:04,793 - root - INFO - Exiting the calculator. Goodbye!

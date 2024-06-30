@@ -71,17 +71,32 @@ class HistoryManager:
         self.history.to_csv(self.csv_file_path, index=False)
         print("History cleared successfully.")
 
-    def delete_history(self):
-        try:
-            os.remove(self.csv_file_path)
-            self.clear_history()
-            print("History deleted successfully.")
-        except FileNotFoundError:
-            print("No history file found to delete.")
+    def delete_history(self, index):
+        if ((self.history.empty == False) and (index >= 0)):
+            try:
+                self.history.drop(index, inplace=True) 
+                self.history.reset_index(drop=True, inplace=True)
+                self.save_history()
+                print(f"Record at index {index} deleted successfully.")
+                logging.info(f"Record at index {index} deleted successfully.")  
+                self.load_history()         
+            except Exception as e:
+                print(f"An error occurred while deleting the record: {e}")
+                logging.error(f"An error occurred while deleting the record: {e}")
+        
+        elif (self.history.empty):
+            logging.error(f"No calculation history available. Cannot delete records")
+            print(f"No calculation history available. Cannot delete records")
+
+        else: 
+            logging.error("An error occurred while deleting the record!")
+            print("An error occurred while deleting the record!")
+            
 
     def show_history(self):
         if self.history.empty:
-            print("No history to show.")
+            print(f"No history to show.")
+            logging.info(f"No history to show.")
         else:
             print(f'Calculation History Records: ')     
             logging.info(f'Calculation History Records: ')       
