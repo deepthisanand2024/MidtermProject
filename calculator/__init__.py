@@ -18,7 +18,7 @@ import logging.config
 class App:
     def __init__(self): # Constructor
         os.makedirs('logs', exist_ok=True)
-        self.configure_logging()
+        #self.configure_logging()
         load_dotenv()
         self.settings = {}  # Initialize settings as an empty dictionary
         # Load all environment variables into settings
@@ -28,16 +28,40 @@ class App:
         self.settings =  self.load_environment_variables()
         # Default to 'PRODUCTION' if 'ENVIRONMENT' not set
         self.settings.setdefault('ENVIRONMENT', 'DEV')    
+        self.configure_logging()
         self.command_handler = CommandHandler()
         self.history_manager = HistoryManager()
 
     def configure_logging(self):
+        ''' Commented for using logging using env
         logging_conf_path = 'logging.conf'
         if os.path.exists(logging_conf_path):
             logging.config.fileConfig(logging_conf_path, disable_existing_loggers=False)
         else:
             logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
         logging.info("Logging configured.")
+        '''
+        try:
+            log_level = os.getenv('LOG_LEVEL', 'INFO').upper()
+            log_output = os.getenv('LOG_OUTPUT', 'file').lower()
+            log_format = format='%(asctime)s - %(levelname)s - %(message)s'
+            logging.basicConfig(level = log_level, format =log_format)
+            logger = logging.getLogger()
+            logger.setLevel(log_level)
+            
+            if log_output == 'file':
+                log_file = os.getenv('LOG_FILE', 'logs/app.log')
+                file_handler = logging.FileHandler(log_file)
+                file_handler.setFormatter(logging.Formatter(log_format))
+                logger.addHandler(file_handler)
+            else:
+                raise ValueError(f"Unsupported LOG_OUTPUT value: {log_output}")
+            logging.info("Logging configured.")
+            
+        except Exception as e:
+                print(f"An error occurred while configuring logging: {e}")
+                logging.error(f"An error occurred while configuring logging: {e}")
+
 
     def load_environment_variables(self):
         settings = {key: value for key, value in os.environ.items()}
@@ -60,6 +84,7 @@ class App:
                         if issubclass(item, (Command)):  # Assuming a BaseCommand class exists
                             self.command_handler.register_plugin_command(plugin_name, item())
                             logging.info(f"Plugin {plugin_name} registered successfully.")
+                            print(f"Plugin {plugin_name} registered successfully.")
                     except TypeError:
                         #logging.error(f"Error loading plugin {plugin_name}")
                         continue  # If item is not a class or unrelated class, just ignore
@@ -74,20 +99,18 @@ class App:
         self.command_handler.register_command("menu" , MenuCommand())
     
         while True:
-            # Input command from the user
-            
-            print("Enter command (choose one of the following options):")             
-            print(" - add")
-            print(" - subtract")
-            print(" - multiply")
-            print(" - divide")
-            print(" - menu")
-            print(" - load history")
-            print(" - save history")
-            print(" - clear history")
-            print(" - delete history")
-            print(" - exit (to quit)")
-            command = input().strip().lower()
+            # Input command from the user  
+            command = input("Enter command (choose one of the following options):\n"
+            " - add\n"
+            " - subtract\n"
+            " - multiply\n"
+            " - divide\n"
+            " - menu\n"
+            " - load history\n"
+            " - save history\n"
+            " - clear history\n"
+            " - delete history\n"
+            " - exit (to quit)\n").strip().lower()
             
             if command == 'exit':
                 logging.info("Exiting the calculator. Goodbye!")
@@ -147,3 +170,4 @@ class App:
                 logging.error("Unknown command. Please enter a valid command.")
                 print("Unknown command. Please enter a valid command.")
                 break
+            

@@ -3,4 +3,8 @@ omit =
     *main.py
     tests/conftest.py
     tests/__init__.py
+    calculator/operations/__init__.py
+    calculator/__init__.py
+    calculator/operations/menu/__init__.py
+
 

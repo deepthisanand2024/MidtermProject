@@ -30,9 +30,6 @@ class MenuCommand(Command):
                         print(f"Result of {menu_op} for {menu_num} is: {result:.4f}")
                     
                     return result, menu_op, menu_num
-
-                    ''' Adding the calculation to the history'''              
-                    #self.history_manager.add_to_history(menu_op, menu_num, str(round(result, 2)))
                 
                 else:
                     raise KeyError

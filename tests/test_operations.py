@@ -4,10 +4,11 @@ from io import StringIO
 from contextlib import redirect_stdout
 
 #from calculator import App
-from calculator.plugins.add import AddCommand
-from calculator.plugins.subtract import SubtractCommand
-from calculator.plugins.multiply import MultiplyCommand
-from calculator.plugins.divide import DivideCommand
+from calculator.operations.add import AddCommand
+from calculator.operations.subtract import SubtractCommand
+from calculator.operations.multiply import MultiplyCommand
+from calculator.operations.divide import DivideCommand
+
 
 def test_add_command(capfd, monkeypatch):
     # Mock user input

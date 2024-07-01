@@ -18,4 +18,5 @@ def divide(x:int, y:int):
         return x / y
     else:
         logging.error("Error: Division by zero")
+        print("Error: Division by zero")
         return "Error: Division by zero"
